@@ -25,7 +25,7 @@ Type d'installation: intéractive
 ![Vue parlante]()
 
 Mise en espace: Ce trouve presque en entrant dans l'exposition. C'est l'une des premières oeuvres qu'on voit. Elle est grosse et prend assez de place parce qu'on doit passer au travers celle-ci.
-![Vue d'ensemble de la pièce et croquis de la pièce](https://cdn.discordapp.com/attachments/888236809656614923/1071922822814896209/image.png =250x250)
+![Vue d'ensemble de la pièce et croquis de la pièce](https://cdn.discordapp.com/attachments/888236809656614923/1071922822814896209/image.png)
 
 Composantes et techniques: LED, installation en bois, base en bois, composants électroniques, système sonore, ampoules, caméra
 ![Composantes]()
