@@ -2,5 +2,6 @@
 
 Dans ce dossier, on peut trouver un dossier : 
 
-- Fiche : Dans lequel se trouve la fiche d'information de l'oeuvre choisit
+- Croquis  Dans lequel se trouve les croquis de l'oeuvre et de l'environnement.
+- Notes : Dans lequel se trouve les notes prises lors de la visite.
 - Media : Dans lequel se trouve les images prises de l'oeuvre
