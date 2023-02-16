@@ -42,7 +42,7 @@ Intéractive
 
 
 ### Mise en espace
-Premièrement, l'oeuvre se trouvait à Arsenal art contemporain, une gallerie se trouvant dans le vieux port de Montréal dans un ancien chantier naval. Alors, le batiment et son intérieur ont des aspects industriels en plus d'avoir des aspects modernes. L'oeuvre se trouve presque en entrant dans l'exposition Bian. C'est l'une des premières oeuvres qu'on voit dans la grosse pièce sombre et noire. L'oeuvre est plus grosse que d'autre et demande assez de place parce qu'on doit passer au travers celle-ci. Puisqu'elle est illuminée et immersive, elle attire l'oeil du visiteur.
+Premièrement, l'oeuvre se trouvait à Arsenal art contemporain, une gallerie se trouvant dans le vieux port de Montréal dans un ancien chantier naval. Alors, le batiment et son intérieur ont des aspects industriels en plus d'avoir des aspects modernes. L'oeuvre se trouve presque en entrant dans l'exposition Bian. C'est l'une des premières oeuvres qu'on voit dans la grosse pièce sombre et noire. L'oeuvre est plus grosse que d'autre et demande assez de place parce qu'on doit passer au travers celle-ci. Puisqu'elle est illuminée et immersive, elle attire l'oeil du visiteur. Il n'y a aucune autre oeuvre derrière celle-ci pour s'assurer de bien cacher et cammoufler les fils et ordinateurs dont celle-ci à de besoin. Son emplacement et l'espace autour font en sorte qu'on peut passer au travers celle-ci d'un côté ou de l'autre.
 
 
 ### Composantes et techniques ***
