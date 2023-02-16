@@ -1,7 +1,7 @@
 
 # Résonance (2021)
 
-### Nom de l'exposition
+## Nom de l'exposition
 Mutation Bian 6
 
 
