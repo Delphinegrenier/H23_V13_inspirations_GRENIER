@@ -33,8 +33,11 @@ Louis-Philippe Rondeau
 #### D'après le cartel et réécrit dans mes mots: 
 Résonance est une œuvre intéractive qui a été beaucoup utilisé lors de festivals et d’autres événements. L’artiste voulait montrer que les gestes du présents se superposent à ceux du passé. Donc que les actions qu’on pose on un impact sur le future. Donc au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que c’est faux que le passé reste, que ce soit numériquement ou en mémoire. L’artiste voulait favoriser un œuvre simple et qui est très facile et intuitive pour les gens.
 
-#### D'après le site web de l'artiste : 
+#### D'après le site web de l'artiste: 
 "RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle." 
+
+#### Autres informations:
+
 
 
 ### Type d'installation
