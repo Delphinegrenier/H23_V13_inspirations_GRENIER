@@ -30,7 +30,7 @@ Louis-Philippe Rondeau
 
 
 ### Description de l'oeuvre
-#### D'après le cartel : 
+#### D'après le cartel et réécrit dans mes mots: 
 Résonance est une œuvre intéractive qui a été beaucoup utilisé lors de festivals et d’autres événements. L’artiste voulait montrer que les gestes du présents se superposent à ceux du passé. Donc que les actions qu’on pose on un impact sur le future. Donc au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que c’est faux que le passé reste, que ce soit numériquement ou en mémoire. L’artiste voulait favoriser un œuvre simple et qui est très facile et intuitive pour les gens.
 
 #### D'après le site web de l'artiste : 
