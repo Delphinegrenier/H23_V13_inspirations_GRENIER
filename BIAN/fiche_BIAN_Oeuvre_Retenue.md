@@ -5,7 +5,7 @@
 Mutation Bian 6
 
 
-## Lieu de mise en exposition
+### Lieu de mise en exposition
 Arsenal art contemporain, 2020 William, Montréal, Qc
 
 
@@ -22,7 +22,7 @@ Résonance
 
 
 ### Nom de l'artiste
-Louis-Philippe Rondeau Cartel
+Louis-Philippe Rondeau
 
 
 ### Année de réalisation
@@ -70,3 +70,4 @@ J’aime l’interactivité de l’œuvre, car ça rend l'oeuvre vivante et elle
 J’afficherais davantage de personnes sur l’écran. Souvent il ne montre que les 3 dernières images vu. Mais ce serait intéressant que les images soit sauvegardée en mémoire et que de temps en temps on voit une image d’une personne qui était présente il y a quelques jours, etc. Je trouve que ce serait intéressant, surtout avec le thème de l'oeuvre de garder en mémoire plus longtemps les images des gens. Donc que le passé reste plus longtemps. Éléments pertinents
 
 ### Références
+http://patenteux.com/wp/
