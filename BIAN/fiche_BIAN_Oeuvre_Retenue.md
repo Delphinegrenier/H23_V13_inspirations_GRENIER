@@ -72,4 +72,4 @@ J’afficherais davantage de personnes sur l’écran. Souvent il ne montre que 
 ### Références
 - Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
 - Site web d'Elektra https://www.elektramontreal.ca/biennale2022?lang=fr
-- Site web de l'Arsenal art contemporain https://www.arsenalcontemporary.com/
+- Site web de l'Arsenal art contemporain à Montréal https://www.arsenalcontemporary.com/mtl/fr/home
