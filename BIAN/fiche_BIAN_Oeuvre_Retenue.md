@@ -1,11 +1,11 @@
 
 # Résonance (2021)
 
-## Nom de l'exposition
+### Nom de l'exposition
 Mutation Bian 6
 
 
-### Lieu de mise en exposition
+## Lieu de mise en exposition
 Arsenal art contemporain, 2020 William, Montréal, Qc
 
 
