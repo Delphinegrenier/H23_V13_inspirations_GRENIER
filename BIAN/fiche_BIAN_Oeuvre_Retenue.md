@@ -32,13 +32,12 @@ L'année de réalisation de l'oeuvre est: 2021.
 
 ### Description de l'oeuvre
 
-Résonance est une installation intéractive créée en 2021 par Louis-Philippe Rondeau. Elle fait quelques mètres de larges et de haut, car elle comporte une arche triangulaire. Sa position nous invite à passer au travers celle-ci et à l'aide d'une caméra, notre photo est prise et ensuite affichée avec des photographies prises de d'autres personnes sur un écran LED.
+Résonance est une installation intéractive créée en 2021 par Louis-Philippe Rondeau. Elle fait quelques mètres de larges et de haut, car elle comporte une arche  blanche triangulaire. Sa position nous invite à passer au travers celle-ci et à l'aide d'une caméra, notre photo est prise et ensuite affichée avec des photographies prises de d'autres personnes sur un écran LED.
 
-#### D'après le cartel et réécrit dans mes mots: 
-Résonance est une œuvre intéractive qui a été beaucoup utilisé lors de festivals et d’autres événements. L’artiste voulait montrer que les gestes du présents se superposent à ceux du passé. Donc que les actions qu’on pose on un impact sur le future. Donc au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que c’est faux que le passé reste, que ce soit numériquement ou en mémoire. L’artiste voulait favoriser un œuvre simple et qui est très facile et intuitive pour les gens.
+D'après le cartel installé près de l'oeuvre, Résonance est une œuvre qui a été beaucoup utilisé lors de festivals et d’autres événements. L’artiste voulait montrer que les gestes du présents se superposent à ceux du passé. Donc que les actions qu’on pose on un impact sur le future. Donc au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que c’est faux que le passé reste, que ce soit numériquement ou en mémoire. L’artiste voulait favoriser un œuvre simple et qui est très facile et intuitive pour les gens.
 
 #### D'après le site web de l'artiste: 
-"RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle." 
+<i>"RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle."</i> 
 
 #### Autres informations:
 
