@@ -53,6 +53,7 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'oeuvre
 
 
 ### Composantes et techniques ***
+L'oeuvre a énormément de composantes et techniques utilisées 
 - LED
 - Arche en bois
 - Base en bois
@@ -70,7 +71,7 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'oeuvre
 
 
 ### Expérience vécu
-Résonance est une installation interactive qui permet aux gens de passer au travers une sculpture lumineuse qui prend en photo/scan le corps de celui ci et affiche l’image qu’elle a pris sur un écran à affichage LED. Il y a un aspect visuel mais aussi sonore, car il y a du son lorsqu’on passe au travers celle-ci. Les photos de plusieurs personnes défile sur l’écran. Gestes de l'interacteur
+Résonance est une installation interactive qui permet aux gens de passer au travers une sculpture lumineuse qui prend en photo/scan le corps de celui ci et affiche l’image qu’elle a pris sur un écran à affichage LED. Il y a un aspect visuel mais aussi sonore, car il y a du son lorsqu’on passe au travers celle-ci. Les photos de plusieurs personnes défile sur l’écran LED. Il est possible pour de rester un long moment devant la caméra ou de faire différents gestes pour que la photo affichée soit étrange ou différente. 
 
 
 ### Ce qui m'a plu et qui m'a donné des idées
