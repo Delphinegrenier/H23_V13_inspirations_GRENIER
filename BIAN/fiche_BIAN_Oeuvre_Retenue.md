@@ -4,7 +4,7 @@
 ### Nom de l'exposition
 Mutation Bian 6
 
-![Affiche](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/medias/resonance_affiche.jpg?raw=true)
+![Affiche]()
 
 ### Lieu de mise en exposition
 Arsenal art contemporain, 2020 William, Montréal, Qc
