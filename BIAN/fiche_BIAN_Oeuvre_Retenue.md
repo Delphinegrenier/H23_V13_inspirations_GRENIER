@@ -34,25 +34,20 @@ L'année de réalisation de l'oeuvre est: 2021.
 
 Résonance est une installation intéractive créée en 2021 par Louis-Philippe Rondeau. Elle fait quelques mètres de large et de haut, car elle comporte une arche  blanche triangulaire. Sa position nous invite à passer au travers celle-ci et à l'aide d'une caméra, notre photo est prise et ensuite affichée avec des photographies prises de d'autres personnes sur un écran LED.
 
-D'après le cartel installé près de l'oeuvre, l’artiste voulait montrer que les gestes du présents se superposent à ceux du passé et donc que les actions qu’on pose présentemment deviennent alors celles du passé. Alors, au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que c’est faux que le passé reste, que ce soit numériquement ou dans la mémoire de chacun. Lorsque l'on passe au travers l'oeuvre et que notre photo est prise, se simple de geste qu'est de marcher dans une direction, est maintenant garder en mémoire. En d'autre mots, l'artiste souhaite montrer que chacunes de nos actions comptent et que même si elles sont passées, elles peuvent tout de même résurgir et s'addisioner avec le présent. 
-
-L’artiste voulait favoriser un œuvre simple et qui est très facile et intuitive pour les gens. L'oeuvre en elle même est très complexe et demande plusieurs codes informatiques et composantes électriques pour qu'elle fonctionne, cepandant elle semble très minimaliste et invite les gens à la traverser. 
-
-#### D'après le site web de l'artiste: 
-<i>"RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle."</i> 
-
+D'après le site web de l'artiste et le cartel: <i>"RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle."</i> 
 ###### Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
 
-#### Autres informations:
+En d'autre mot, l’artiste voulait montrer que les gestes qu'on pose présentement deviennent alors ceux du passé et ainsi de suite. Alors, au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que le passé reste, que ce soit numériquement ou dans la mémoire de chacun. Lorsque l'on passe au travers l'oeuvre et que notre photo est prise, se simple de geste qu'est de marcher dans une direction est un geste maintenant passé, sauf qu'elle est gardée en mémoire. Alors, chacunes de nos actions comptent et que même si elles sont passées, elles peuvent tout de même résurgir et s'addisioner avec le présent. 
 
+L’artiste voulait favoriser un œuvre simple et qui est très facile et intuitive pour les gens. L'oeuvre en elle même est très complexe et demande plusieurs codes informatiques et composantes électriques pour qu'elle fonctionne, cependant elle semble très minimaliste et invite les gens à la traverser. 
 
 
 ### Type d'installation
-Intéractive
+Cette installation est intéractive, car elle invite les gens à intéragir avec.
 
 
 ### Mise en espace
-Premièrement, l'oeuvre se trouvait à Arsenal art contemporain, une gallerie se trouvant dans le vieux port de Montréal dans un ancien chantier naval. Alors, le batiment et son intérieur ont des aspects industriels en plus d'avoir des aspects modernes. L'oeuvre se trouve presque en entrant dans l'exposition Bian. C'est l'une des premières oeuvres qu'on voit dans la grosse pièce sombre et noire. L'oeuvre est plus grosse que d'autre et demande assez de place parce qu'on doit passer au travers celle-ci. Puisqu'elle est illuminée et immersive, elle attire l'oeil du visiteur. Il n'y a aucune autre oeuvre derrière celle-ci pour s'assurer de bien cacher et cammoufler les fils et ordinateurs dont celle-ci à de besoin. Son emplacement et l'espace autour font en sorte qu'on peut passer au travers celle-ci d'un côté ou de l'autre.
+Premièrement, l'oeuvre se trouvait à Arsenal art contemporain, une gallerie se trouvant dans le vieux port de Montréal dans un ancien chantier naval. L'extérieur du batiment est moderne, mais son intérieur témoigne tout de même d'un passé industriel. Même l'intérieur a été rénové entre temps, il y a des traces industriels de par les hauts plafonds et les différents tuyauxs et machineries. L'oeuvre Résonance se trouve presque en entrant dans la salle d'exposition Bian. C'est l'une des premières oeuvres qu'on voit dans la grosse pièce sombre et noire. L'oeuvre est plus grosse que d'autre et demande assez de place parce qu'on doit passer au travers celle-ci. Ses dimensions exactes sont de 380 x 560 x 300 cm. Puisqu'elle est illuminée et immersive, elle attire l'oeil du visiteur. Il n'y a aucune autre oeuvre derrière celle-ci pour s'assurer de bien cacher et cammoufler les fils et ordinateurs dont celle-ci à de besoin. Son emplacement et l'espace autour font en sorte qu'on peut passer au travers celle-ci d'un côté ou de l'autre. ÉA
 
 
 ### Composantes et techniques ***
