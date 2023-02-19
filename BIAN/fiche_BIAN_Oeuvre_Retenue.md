@@ -32,7 +32,7 @@ L'année de réalisation de l'oeuvre est: 2021.
 
 ### Description de l'oeuvre
 
-Résonance est une installation intéractive créée en 2021 par Louis-Philippe Rondeau. Elle fait quelques mètres de large et de haut, car elle comporte une arche  blanche triangulaire. Sa position nous invite à passer au travers celle-ci et à l'aide d'une caméra, notre photo est prise et ensuite celle-ci défile sur un écran LED.
+Résonance est une installation intéractive créée en 2021 par Louis-Philippe Rondeau. Elle fait quelques mètres de large et de haut, car elle comporte une arche  blanche triangulaire. Sa position nous invite à passer au travers celle-ci et à l'aide d'une caméra, notre photo est prise on peut entendre un son émis par les hauts parleurs et ensuite notre photo défile sur un écran.
 
 D'après le site web de l'artiste et le cartel: <i>"RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle."</i> 
 ###### Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
@@ -48,6 +48,8 @@ Cette installation est intéractive, car elle invite les gens à intéragir avec
 
 ### Mise en espace
 Premièrement, l'oeuvre se trouvait à Arsenal art contemporain, une gallerie se trouvant dans le vieux port de Montréal dans un ancien chantier naval. L'extérieur du batiment est moderne, mais son intérieur témoigne tout de même d'un passé industriel. Même si l'intérieur a été rénové entre temps, il y a des traces industriels de par les hauts plafonds et les différents tuyauxs et machineries. L'oeuvre Résonance se trouve presque en entrant dans la salle d'exposition Bian. C'est l'une des premières oeuvres qu'on voit dans la grosse pièce sombre et noire. L'oeuvre est plus grosse que d'autres et demande assez de place parce qu'on doit passer au travers celle-ci. Ses dimensions exactes sont de 380 x 560 x 300 cm. Puisqu'elle est illuminée et immersive, elle attire l'oeil du visiteur. Il n'y a aucune autre oeuvre derrière celle-ci pour s'assurer de bien cacher et cammoufler les fils et les ordinateurs dont celle-ci à de besoin. À sa gauche se trouve une rampe en métal pour éviter que les gens tombent dans se qui semble être une entrée de garage pour décharger les camions. Son emplacement et l'espace autour font en sorte qu'on peut passer au travers celle-ci d'un côté ou de l'autre.
+
+L'arche triangulaire se trouve sur une base en bois et est le centre de l'oeuvre. Derrière cette arche se trouve un énorme écran de plusieurs milliers d'ampoules LED qui projète les photos. Il y a un haut parleur et un pillier de support en métal sur chaque côté de l'écran. Il y a plusieurs ordinateurs, cables et composantes électroniques derrière l'écran. Le cartel se trouve à la droite de l'oeuvre.
 
 
 ### Composantes et techniques ***
