@@ -11,26 +11,29 @@ Arsenal art contemporain, 2020 William, Montréal, Qc
 
 
 ### Type d'exposition
-Itinérante
+Le type d'exposition est itinérante, puisqu'elle se promène entre galleries. Elle était présentée à l'Arsenal pendant 3 mois.
 
 
 ### Date de la visite
-Jeudi 2 février 2023
+La date de la visite était le 2 février 2023.
 
 
 ### Titre de l'oeuvre
-Résonance
+Le titre de l'oeuvre choisit est: Résonance.
 
 
 ### Nom de l'artiste
-Louis-Philippe Rondeau
+L'artiste qui a réalisé cette oeuvre est: Louis-Philippe Rondeau.
 
 
 ### Année de réalisation
-2021
+L'année de réalisation de l'oeuvre est: 2021.
 
 
 ### Description de l'oeuvre
+
+Résonance est une installation intéractive créée en 2021 par Louis-Philippe Rondeau. Elle fait quelques mètres de larges et de haut, car elle comporte une arche triangulaire. Sa position nous invite à passer au travers celle-ci et à l'aide d'une caméra, notre photo est prise et ensuite affichée avec des photographies prises de d'autres personnes sur un écran LED.
+
 #### D'après le cartel et réécrit dans mes mots: 
 Résonance est une œuvre intéractive qui a été beaucoup utilisé lors de festivals et d’autres événements. L’artiste voulait montrer que les gestes du présents se superposent à ceux du passé. Donc que les actions qu’on pose on un impact sur le future. Donc au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que c’est faux que le passé reste, que ce soit numériquement ou en mémoire. L’artiste voulait favoriser un œuvre simple et qui est très facile et intuitive pour les gens.
 
