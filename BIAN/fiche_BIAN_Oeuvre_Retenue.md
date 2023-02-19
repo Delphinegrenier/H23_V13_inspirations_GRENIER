@@ -32,7 +32,7 @@ L'année de réalisation de l'oeuvre est: 2021.
 
 ### Description de l'oeuvre
 
-Résonance est une installation intéractive créée en 2021 par Louis-Philippe Rondeau. Elle fait quelques mètres de large et de haut, car elle comporte une arche  blanche triangulaire. Sa position nous invite à passer au travers celle-ci et à l'aide d'une caméra, notre photo est prise et ensuite affichée avec des photographies prises de d'autres personnes sur un écran LED.
+Résonance est une installation intéractive créée en 2021 par Louis-Philippe Rondeau. Elle fait quelques mètres de large et de haut, car elle comporte une arche  blanche triangulaire. Sa position nous invite à passer au travers celle-ci et à l'aide d'une caméra, notre photo est prise et ensuite celle-ci défile sur un écran LED.
 
 D'après le site web de l'artiste et le cartel: <i>"RÉSONANCES est une métaphore sur le temps qui défile. Toutefois, au lieu d’exprimer la linéarité du temps, cette installation interactive évoque la manière dont les gestes du présent se superposent à ceux du passé. Tel un écho visuel et sonore, RÉSONANCES représente nos actions antérieures qui resurgissent, amplifiant le présent, et devenant à leur tour passé, telle une perpétuelle mise en abyme temporelle."</i> 
 ###### Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
