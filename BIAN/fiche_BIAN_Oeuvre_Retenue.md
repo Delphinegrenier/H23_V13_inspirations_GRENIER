@@ -43,9 +43,9 @@ L’artiste voulait favoriser un œuvre simple et qui est très facile et intuit
 
 ![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_cartel.jpg)
 
-![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_01.jpg)
-![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_03.jpg)
-![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_08.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_ecran_04.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_ecran_02.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_ecran_03.jpg)
 
 ### Type d'installation
 Cette installation est intéractive, car elle invite les gens à intéragir avec.
