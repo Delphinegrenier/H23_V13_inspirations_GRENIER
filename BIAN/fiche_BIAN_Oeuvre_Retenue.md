@@ -4,11 +4,11 @@
 ### Nom de l'exposition
 Mutation Bian 6
 
-![Affiche de l'exposition]()
+![Affiche de l'exposition](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_affiche.jpg)
 
 ### Lieu de mise en exposition
 Arsenal art contemporain, 2020 William, Montréal, Qc
-![Affiche](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_affiche.jpg)
+![Affiche]()
 
 ### Type d'exposition
 Le type d'exposition est itinérante, puisqu'elle se promène entre galleries. Elle était présentée à l'Arsenal pendant 3 mois.
