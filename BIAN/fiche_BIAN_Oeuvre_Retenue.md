@@ -26,11 +26,6 @@ Le titre de l'oeuvre choisit est: Résonance.
 ### Nom de l'artiste
 L'artiste qui a réalisé cette oeuvre est: Louis-Philippe Rondeau.
 
-![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_cartel.jpg)
-
-![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_01.jpg)
-![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_03.jpg)
-![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_08.jpg)
 ### Année de réalisation
 L'année de réalisation de l'oeuvre est: 2021.
 
@@ -46,27 +41,41 @@ En d'autre mot, l’artiste voulait montrer que les gestes qu'on pose présentem
 
 L’artiste voulait favoriser un œuvre simple et qui est très facile et intuitive pour les gens. L'oeuvre en elle même est très complexe et demande plusieurs codes informatiques et composantes électriques pour qu'elle fonctionne, cependant elle semble très minimaliste et invite les gens à la traverser. 
 
+![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_cartel.jpg)
+
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_01.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_03.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_08.jpg)
 
 ### Type d'installation
 Cette installation est intéractive, car elle invite les gens à intéragir avec.
 
+![Vue parlante](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_vue_parlante.jpg)
 
 ### Mise en espace
 Premièrement, l'oeuvre se trouvait à Arsenal art contemporain, une gallerie se trouvant dans le vieux port de Montréal dans un ancien chantier naval. L'extérieur du batiment est moderne, mais son intérieur témoigne tout de même d'un passé industriel. Même si l'intérieur a été rénové entre temps, il y a des traces industriels de par les hauts plafonds et les différents tuyauxs et machineries. L'oeuvre Résonance se trouve presque en entrant dans la salle d'exposition Bian. C'est l'une des premières oeuvres qu'on voit dans la grosse pièce sombre et noire. L'oeuvre est plus grosse que d'autres et demande assez de place parce qu'on doit passer au travers celle-ci. Ses dimensions exactes sont de 380 x 560 x 300 cm. Puisqu'elle est illuminée et immersive, elle attire l'oeil du visiteur. Il n'y a aucune autre oeuvre derrière celle-ci pour s'assurer de bien cacher et cammoufler les fils et les ordinateurs dont celle-ci à de besoin. À sa gauche se trouve une rampe en métal pour éviter que les gens tombent dans se qui semble être une entrée de garage pour décharger les camions. Son emplacement et l'espace autour font en sorte qu'on peut passer au travers celle-ci d'un côté ou de l'autre.
 
 L'arche triangulaire se trouve sur une base en bois et est le centre de l'oeuvre. Derrière cette arche se trouve un énorme écran de plusieurs milliers d'ampoules LED qui projète les photos. Il y a un haut parleur et un pillier de support en métal sur chaque côté de l'écran. Il y a plusieurs ordinateurs, cables et composantes électroniques derrière l'écran. Le cartel se trouve à la droite de l'oeuvre.
 
+![Croquis](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_vue_ensemble.jpg)
+![Vue d'ensemble](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_complet.jpg)
 
 ### Composantes et techniques ***
 L'oeuvre a énormément de composantes et techniques utilisées 
 - LED
 - Arche en bois
 - Base en bois
-- Composants électroniques
+- Composantes électroniques (ordinateurs et fils)
 - Système sonore
-- Ampoules
 - Caméra 
 
+![LED](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_led.jpg)
+![Arche en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_arche.jpg)
+![Base en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_base.jpg)
+![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
+![Composantes électroniques fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
+![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
+![Caméra](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_camera.jpg)
 
 ### Éléments nécessaire à la mise en exposition
 - Visses
