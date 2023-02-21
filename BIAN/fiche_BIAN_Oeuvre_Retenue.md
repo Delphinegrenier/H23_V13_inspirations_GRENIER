@@ -26,7 +26,11 @@ Le titre de l'oeuvre choisit est: Résonance.
 ### Nom de l'artiste
 L'artiste qui a réalisé cette oeuvre est: Louis-Philippe Rondeau.
 
-![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_cartel.jpg)![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_01.jpg)![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_03.jpg)
+![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_cartel.jpg)
+
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_01.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_03.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_08.jpg)
 ### Année de réalisation
 L'année de réalisation de l'oeuvre est: 2021.
 
