@@ -8,7 +8,7 @@ Mutation Bian 6
 
 ### Lieu de mise en exposition
 Arsenal art contemporain, 2020 William, Montréal, Qc
-![Affiche]()
+![Moi devant l'édifice](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_delphine.jpg)
 
 ### Type d'exposition
 Le type d'exposition est itinérante, puisqu'elle se promène entre galleries. Elle était présentée à l'Arsenal pendant 3 mois.
