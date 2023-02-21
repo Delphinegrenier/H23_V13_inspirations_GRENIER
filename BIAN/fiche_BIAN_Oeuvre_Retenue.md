@@ -74,7 +74,7 @@ L'oeuvre a énormément de composantes et techniques utilisées
 ![Base en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_base.jpg)
 ![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
 ![Composantes électroniques fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
-![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
+![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_speaker_02.jpg)
 ![Caméra](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_camera.jpg)
 
 ### Éléments nécessaire à la mise en exposition
