@@ -73,17 +73,21 @@ L'oeuvre a énormément de composantes et techniques utilisées
 ![Arche en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_arche.jpg)
 ![Base en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_base.jpg)
 ![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
-![Composantes électroniques fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
-![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_speaker_02.jpg)
+![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_speaker.jpg)
 ![Caméra](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_camera.jpg)
 
 ### Éléments nécessaire à la mise en exposition
 - Visses
 - Cache fils
-- Câbles
-- Crochets
+- Fls
+- Pinces en plastique
+- Poutre de soutient métallique
 
-
+![Visses](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
+![Cache fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_cache_fils.jpg)
+![Fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
+![Pinces](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pinces.jpg)
+![Poutre de soutient métallique](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_soutient.jpg)
 ### Expérience vécu
 Résonance est une installation interactive qui permet aux gens de passer au travers une sculpture lumineuse qui prend en photo/scan le corps de celui ci et affiche l’image qu’elle a pris sur un écran à affichage LED. Il y a un aspect visuel mais aussi sonore, car il y a du son lorsqu’on passe au travers celle-ci. Les photos de plusieurs personnes défile sur l’écran LED. Il est possible pour de rester un long moment devant la caméra ou de faire différents gestes pour que la photo affichée soit étrange ou différente. 
 
