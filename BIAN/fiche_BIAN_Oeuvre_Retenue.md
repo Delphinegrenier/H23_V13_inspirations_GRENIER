@@ -14,7 +14,6 @@ Arsenal art contemporain, 2020 William, Montréal, Qc
 ### Type d'exposition
 Le type d'exposition est itinérante, puisqu'elle se promène entre galleries. Elle était présentée à l'Arsenal pendant 3 mois.
 
-
 ### Date de la visite
 La date de la visite était le 2 février 2023.
 
@@ -22,11 +21,14 @@ La date de la visite était le 2 février 2023.
 ### Titre de l'oeuvre
 Le titre de l'oeuvre choisit est: Résonance.
 
+![Vue d'ensemble de l'oeuvre](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_vue_ensemble.jpg)
 
 ### Nom de l'artiste
 L'artiste qui a réalisé cette oeuvre est: Louis-Philippe Rondeau.
 
-
+![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_cartel.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_01.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_03.jpg)
 ### Année de réalisation
 L'année de réalisation de l'oeuvre est: 2021.
 
