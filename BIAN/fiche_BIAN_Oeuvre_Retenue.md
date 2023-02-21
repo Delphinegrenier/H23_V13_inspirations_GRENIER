@@ -79,18 +79,19 @@ L'oeuvre a énormément de composantes et techniques utilisées
 ### Éléments nécessaire à la mise en exposition
 - Visses
 - Cache fils
-- Fls
+- Fils
 - Pinces en plastique
 - Poutre de soutient métallique
 
-![Visses](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
 ![Cache fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_cache_fils.jpg)
-![Fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
+![Fils et visses](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
 ![Pinces](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pinces.jpg)
 ![Poutre de soutient métallique](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_soutient.jpg)
+
 ### Expérience vécu
 Résonance est une installation interactive qui permet aux gens de passer au travers une sculpture lumineuse qui prend en photo/scan le corps de celui ci et affiche l’image qu’elle a pris sur un écran à affichage LED. Il y a un aspect visuel mais aussi sonore, car il y a du son lorsqu’on passe au travers celle-ci. Les photos de plusieurs personnes défile sur l’écran LED. Il est possible pour de rester un long moment devant la caméra ou de faire différents gestes pour que la photo affichée soit étrange ou différente. 
 
+![Expérience vécu](https://www.youtube.com/watch?v=Ij7CeXjXZAI)
 
 ### Ce qui m'a plu et qui m'a donné des idées
 J’aime l’interactivité de l’œuvre, car ça rend l'oeuvre vivante et elle devient plusque qu'une oeuvre qu'on doit seulement regarder. Les gens semblaient vraiment intéressée par le fait de passer au travers et d’essayer de faire des mouvements étranges pour que ça apparaisse à l’écran. Ceci m'inspire, car lorsqu'on crée une oeuvre on souhaite que les gens l'aime et veuille la voir. C’est immersif avec le son, c’est comme si on se faisait scanner. J’aime que ça utilise justement un aspect visuel, grâce aux écrans(led) mais aussi la musique, les effets sonores et les lumières. C'est inspirant, elle utilise plusieurs technique de multimédia. J'aime aussi l'aspect de tester les limites de la caméra. Éléments pertinents
