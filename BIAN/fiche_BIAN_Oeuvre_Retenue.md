@@ -74,17 +74,17 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 
 - Arche en bois
 
-- Base en bois
-
 - Composantes électroniques (ordinateurs et câbles)
 
 - Caméra USB
 
+- Base en bois
+
 ![Écran D.E.L.](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_led.jpg)
 ![Arche en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_arche.jpg)
-![Base en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_base.jpg)
 ![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
 ![Caméra](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_camera.jpg)
+![Base en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_base.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 
