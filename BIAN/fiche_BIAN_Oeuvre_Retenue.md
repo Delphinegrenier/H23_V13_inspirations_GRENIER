@@ -68,8 +68,6 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 
 ## Composantes et techniques
 
-L'œuvre a énormément de composantes et techniques utilisées
-
 - D.E.L.
 
 - Arche en bois
