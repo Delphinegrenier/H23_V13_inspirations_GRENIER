@@ -108,7 +108,7 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 
 ## Expérience vécue
 
-Résonance est une installation interactive qui permet aux gens de passer à travers une arche lumineuse qui prend en photo le corps de ceux-ci. Après avoir traverser l'arche, l'image prise est affichée sur un écran D.E.L.. Plusieurs images défilent en boucle sur cet écran. Les images semblent se diviser et se superposer en séparant les couleurs et en jouant avec la transparence de l'image. Cette œuvre comporte un aspect sonore, car un son est émis lorsqu’on passe à travers celle-ci. Le son ressemble à celui d'un "scan". Il est possible pour de rester un long moment devant la caméra ou de faire différents gestes pour que la photo affichée soit étrange ou différente. Il est possible de seulement admirer l'œuvre et les photos sans avoir à interagir avec celle-ci. 
+Résonance est une installation interactive qui permet aux gens de passer à travers une arche lumineuse qui prend en photo le corps de ceux-ci. Après avoir traverser l'arche, l'image prise est affichée sur un écran D.E.L.. Plusieurs images défilent en boucle sur cet écran. Les images semblent se diviser et se superposer en séparant les couleurs et en jouant avec la transparence de l'image. Cette œuvre comporte deux aspects sonores, car un son est émis lorsqu’on passe à travers celle-ci et il y a un faible bruit constant que l'on peut entendre en tout temps. Lorsqu'on traverse, le son qu'on peut entendre ressemble à celui d'un "scan". Il est possible pour de rester un long moment devant la caméra ou de faire différents gestes pour que la photo affichée soit étrange ou différente. Il est possible de seulement admirer l'œuvre et les photos sans avoir à interagir avec celle-ci. 
 
 Mon expérience personnelle de l'œuvre fut agréable. Après avoir vu d'autres visiteurs intéragir avec l'œuvre, j'avais hâte d'essayer à mon tour. Je me suis positionnée vers l'arche et je l'ai traversé, toujours en regardant l'écran pour être prête à y apercevoir mon image s'afficher. Je suis restée un moment près de l'écran pour observer ma photo défiler avec d'autres. Au même moment, j'ai entendu le bruit de l'arche émettre un son et j'ai aperçu l'image d'un de mes collègues de classes s'afficher à l'écran à côté de la mienne. Il venait de traverser l'arche à son tour. Je me suis questionnée sur la technique derrière une telle œuvre.
 
@@ -123,9 +123,9 @@ Deuxièmement, j'aime que cette œuvre utilise des aspects à la fois visuel et 
 
 Troisièmement, j'aime que l'œuvre se transforme en continu, car ça la rend davantage unique et spéciale. Les images à l'écran sont en mouvement constant et changent selon les nouvelles photos prises. Cette œuvre ne peut se répéter deux fois, il n'y aura jamais deux photos identiques prises et affichées sur l'écran. Ceci m'inspire, car ça démontre qu'une œuvre n'est pas toujours quelque chose qui reste identique. Une œuvre peut être personnalisée et être en changement selon la personne qui interagit avec.
 
-![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_01.jpg)
-![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
-![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_04.jpg)
+![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_01.jpg)
+![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
+[![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpg)](https://www.youtube.com/watch?v=C7cO9ps89kE&ab_channel=DelphineG)
 
 ## Aspect que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 
