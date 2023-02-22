@@ -104,7 +104,7 @@ Troisièment, j'aime que l'oeuvre se transforme en continu, car ça la rend dava
 ## Aspect que je ferais autrement
 Premièrement, si je pouvais changer une chose à l'oeuvre Résonance, ce serait d'afficher sur l'écran LED davantage de vielles photos qui ont été prises il y a plus longtemps. L'écran n'affiche que les quelques dernières images prises. Ce qui serait intéressant serait que les images soient sauvegardées en mémoire et que de temps en temps on voit une image d’une personne qui était présente il y a quelques jours. Ceci renforcerait le thème de l'oeuvre et l'aspect temporelle que souhaite démontrer l'artiste, comme <i>"la manière dont les gestes du présent se superposent à ceux du passé."</i> 
 
-Ce que je ne souhaite pas retenir de l'oeuvre, c'est l'énorme arche
+Ce que je ne souhaite pas retenir de l'oeuvre, c'est d'avoir une grosse structure au centre de l'oeuvre. L'arche doit être difficile à transporter et à monter. Je pense que si j'avais à faire une oeuvre similaire, j'utiliserais des moyens et techniques qui permettent de transporter l'oeuvre plus facilement.
 
 ## Références
 - Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
