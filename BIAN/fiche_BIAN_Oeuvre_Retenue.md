@@ -1,3 +1,8 @@
+# Résonance (2021)
+
+## Nom de l'exposition
+Mutation Bian 6
+
 ![Affiche de l'exposition](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_affiche.jpg)
 
 ## Lieu de mise en exposition
