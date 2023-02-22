@@ -125,7 +125,7 @@ Troisièmement, j'aime que l'œuvre se transforme en continu, car ça la rend da
 
 ![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_01.jpg)
 ![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
-[![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpg)](https://www.youtube.com/watch?v=C7cO9ps89kE&ab_channel=DelphineG)
+[![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpeg)](https://www.youtube.com/watch?v=C7cO9ps89kE&ab_channel=DelphineG)
 
 ## Aspect que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 
