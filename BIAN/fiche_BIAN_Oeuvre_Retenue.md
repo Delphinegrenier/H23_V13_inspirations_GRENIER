@@ -65,7 +65,7 @@ Premièrement, l'œuvre se trouvait à Arsenal art contemporain, une galerie se 
 
 L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre. Derrière cette arche se trouve un énorme écran de plusieurs milliers d'ampoules D.E.L. qui projette les photos. Il y a un haut-parleur et une poutre de soutien métallique de chaque côté de l'écran. Il y a plusieurs ordinateurs, câbles et composantes électroniques derrière l'écran. Le cartel se trouve à la droite de l'œuvre.
 
-![Croquis](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_vue_ensemble.jpg)
+![Croquis](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/croquis/resonance_croquis.jpg)
 ![Vue d'ensemble](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_complet.jpg)
 
 ## Composantes et techniques
