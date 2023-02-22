@@ -123,7 +123,6 @@ Deuxièmement, j'aime que cette œuvre utilise des aspects à la fois visuel et 
 Troisièmement, j'aime que l'œuvre se transforme en continu, car ça la rend davantage unique et spéciale. Les images à l'écran sont en mouvement constant et changent selon les nouvelles photos prises. Cette œuvre ne peut se répéter deux fois, il n'y aura jamais deux photos identiques prises et affichées sur l'écran. Ceci m'inspire, car ça démontre qu'une œuvre n'est pas toujours quelque chose qui reste identique. Une œuvre peut être personnalisée et être en changement selon la personne qui interagit avec.
 
 ![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_01.jpg)
-![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
 ![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpg)
 ![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_04.jpg)
 
@@ -133,6 +132,7 @@ Premièrement, si je pouvais changer une chose à l'œuvre Résonance, ce serait
 
 Deuxièmement, je ne souhaite pas retenir l'aspect matériel de cette œuvre et j'abandonnerais l'idée d'une grosse structure en bois. L'arche doit être difficile à transporter et à monter. Il faut planifier davantage d'effectifs pour la déplacer entre galerie ou expositions. Je pense que si j'avais à faire une œuvre similaire, j'utiliserais des moyens et techniques qui permettent de transporter l'œuvre plus facilement. À la place, j'utiliserais qu'un simple poteau lumineux avec une caméra. La particularité avec ce poteau serait que ses lumières changent de couleurs avec des effets différents. L'image prise s'afficherait tout de même sur un écran D.E.L..
 
+![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
 ## Références
 
 - Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
