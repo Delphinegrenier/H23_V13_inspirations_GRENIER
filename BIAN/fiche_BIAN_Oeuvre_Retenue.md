@@ -48,7 +48,7 @@ L’artiste voulait favoriser un œuvre simple et qui est très facile et intuit
 ![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_ecran_03.jpg)
 
 ## Type d'installation
-Cette installation est intéractive, car elle invite les gens à intéragir avec.
+Cette installation est intéractive.
 
 ![Vue parlante](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_vue_parlante.jpg)
 
@@ -65,28 +65,28 @@ L'oeuvre a énormément de composantes et techniques utilisées
 - LED
 - Arche en bois
 - Base en bois
-- Composantes électroniques (ordinateurs et fils)
-- Système sonore
-- Caméra 
+- Composantes électroniques (ordinateurs et câbles)
+- Caméra USB
 
 ![LED](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_led.jpg)
 ![Arche en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_arche.jpg)
 ![Base en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_base.jpg)
 ![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
-![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_speaker.jpg)
 ![Caméra](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_camera.jpg)
 
 ## Éléments nécessaire à la mise en exposition
-- Visses
 - Cache fils
-- Fils
+- Câbles
 - Pinces en plastique
 - Poutre de soutient métallique
+- Système sonore
+- Câbles audio
 
 ![Cache fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_cache_fils.jpg)
 ![Fils et visses](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
 ![Pinces](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pinces.jpg)
 ![Poutre de soutient métallique](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_soutient.jpg)
+![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_speaker.jpg)
 
 ## Expérience vécue
 Résonance est une installation interactive qui permet aux gens de passer au travers une arche lumineuse qui prend en photo le corps de celui ci. Ensuite, l'image prise est affichée sur un écran LED. Plusieurs images défilent en boucle sur cet écran. Les images semblent se diviser et se superposer en séparant les couleurs RGB et en jouant avec la transparence de l'image. Cette oeuvre comporte un aspect sonore, car un son est émit lorsqu’on passe au travers celle-ci. Le son ressemble à celui d'un "scan". Il est possible pour de rester un long moment devant la caméra ou de faire différents gestes pour que la photo affichée soit étrange ou différente. Il est possible de seulement admirer l'oeuvre et les photos sans avoir à intéragir avec celle-ci. On peut traverser l'arche seul ou avec d'autres personnes.
@@ -100,6 +100,11 @@ Premièrement, ce qui m'a plus le plus est l'interactivité de l'oeuvre, car ça
 Deuxièmement, j'apprécie que cette oeuvre utilise des aspects à la fois visuel et sonore. L'utilisation de différents médiums multimédia rend l'oeuvre davantage immersive. J'aime que lorsqu'on passe devant la caméra, un son qui ressemble à celui d'un "scan" peut être entendu. Après avoir été "scanné", il est intéressant de voir son image apparaître sur l'écran. Un autre aspect visuel est intéressant est la lumière intégrer dans l'arche C'est inspirant, cette oeuvre contient plusieurs techniques de multimédia qui peut être utilisé dans un de mes futurs projets. L'aspect de lumière me donne des idées, car cette lumière attire l'oeil des gens.
 
 Troisièment, j'aime que l'oeuvre se transforme en continu, car ça la rend davantage unique et spéciale. Les images à l'écran sont en mouvement constant et changent selon les nouvelles photos prises. Cette oeuvre ne peut se répeter deux fois, il n'y aura jamais deux photos identiques prises et affichées sur l'écran. Ceci m'inspire, car ça démontre qu'une oeuvre n'est pas toujours quelque chose qui reste identique. Une oeuvre peut être personnalisée et être en changement selon la personne qui intéragit avec. 
+
+![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_01.jpg)
+![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
+![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpg)
+![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_04.jpg)
 
 ## Aspect que je ferais autrement et que je ne souhaite pas retenir pour de futurs créations
 Premièrement, si je pouvais changer une chose à l'oeuvre Résonance, ce serait d'afficher sur l'écran LED davantage de vielles photos qui ont été prises il y a plus longtemps. L'écran n'affiche que les quelques dernières images prises. Ce qui serait intéressant serait que les images soient sauvegardées en mémoire et que de temps en temps on voit une image d’une personne qui était présente il y a quelques jours. Ceci renforcerait le thème de l'oeuvre et l'aspect temporelle que souhaite démontrer l'artiste, comme <i>"la manière dont les gestes du présent se superposent à ceux du passé."</i> 
