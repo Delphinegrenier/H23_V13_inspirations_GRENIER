@@ -112,8 +112,8 @@ Résonance est une installation interactive qui permet aux gens de passer à tra
 
 Mon expérience personnelle de l'œuvre fut agréable. Après avoir vu d'autres visiteurs intéragir avec l'œuvre, j'avais hâte d'essayer à mon tour. Je me suis positionnée vers l'arche et je l'ai traversé, toujours en regardant l'écran pour être prête à y apercevoir mon image s'afficher. Je suis restée un moment près de l'écran pour observer ma photo défiler avec d'autres. Au même moment, j'ai entendu le bruit de l'arche émettre un son et j'ai aperçu l'image d'un de mes collègues de classes s'afficher à l'écran à côté de la mienne. Il venait de traverser l'arche à son tour. Je me suis questionnée sur la technique derrière une telle œuvre.
 
-[![Expérience vécue](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_video_experience.jpg)](https://www.youtube.com/watch?v=Ij7CeXjXZAI)
-![Expérience vécue 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_experience_02.jpg)
+![Expérience vécue 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_experience_02.jpg)
+[![Expérience vécue 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_video_experience.jpg)](https://www.youtube.com/watch?v=Ij7CeXjXZAI)
 
 ## Ce qui m'a plu et qui m'a donné des idées
 
