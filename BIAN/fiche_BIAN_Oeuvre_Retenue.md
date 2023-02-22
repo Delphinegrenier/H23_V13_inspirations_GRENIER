@@ -55,7 +55,7 @@ Cette installation est intéractive, car elle invite les gens à intéragir avec
 ## Mise en espace
 Premièrement, l'oeuvre se trouvait à Arsenal art contemporain, une gallerie se trouvant dans le vieux port de Montréal dans un ancien chantier naval. L'extérieur du batiment est moderne, mais son intérieur témoigne tout de même d'un passé industriel. Même si l'intérieur a été rénové entre temps, il y a des traces industriels de par les hauts plafonds et les différents tuyauxs et machineries. L'oeuvre Résonance se trouve presque en entrant dans la salle d'exposition Bian. C'est l'une des premières oeuvres qu'on voit dans la grosse pièce sombre et noire. L'oeuvre est plus grosse que d'autres et demande assez de place parce qu'on doit passer au travers celle-ci. Ses dimensions exactes sont de 380 x 560 x 300 cm. Puisqu'elle est illuminée et immersive, elle attire l'oeil du visiteur. Il n'y a aucune autre oeuvre derrière celle-ci pour s'assurer de bien cacher et cammoufler les fils et les ordinateurs dont celle-ci à de besoin. À sa gauche se trouve une rampe en métal pour éviter que les gens tombent dans se qui semble être une entrée de garage pour décharger les camions. Son emplacement et l'espace autour font en sorte qu'on peut passer au travers celle-ci d'un côté ou de l'autre.
 
-L'arche triangulaire se trouve sur une base en bois et est le centre de l'oeuvre. Derrière cette arche se trouve un énorme écran de plusieurs milliers d'ampoules LED qui projète les photos. Il y a un haut parleur et un pillier de support en métal sur chaque côté de l'écran. Il y a plusieurs ordinateurs, cables et composantes électroniques derrière l'écran. Le cartel se trouve à la droite de l'oeuvre.
+L'arche triangulaire se trouve sur une base en bois et est le centre de l'oeuvre. Derrière cette arche se trouve un énorme écran de plusieurs milliers d'ampoules LED qui projète les photos. Il y a un haut parleur et une poutre de soutient métallique de chaque côté de l'écran. Il y a plusieurs ordinateurs, cables et composantes électroniques derrière l'écran. Le cartel se trouve à la droite de l'oeuvre.
 
 ![Croquis](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_vue_ensemble.jpg)
 ![Vue d'ensemble](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_complet.jpg)
@@ -101,8 +101,10 @@ Deuxièmement, j'apprécie que cette oeuvre utilise des aspects à la fois visue
 
 Troisièment, j'aime que l'oeuvre se transforme en continu, car ça la rend davantage unique et spéciale. Les images à l'écran sont en mouvement constant et changent selon les nouvelles photos prises. Cette oeuvre ne peut se répeter deux fois, il n'y aura jamais deux photos identiques prises et affichées sur l'écran. Ceci m'inspire, car ça démontre qu'une oeuvre n'est pas toujours quelque chose qui reste identique. Une oeuvre peut être personnalisée et être en changement selon la personne qui intéragit avec. 
 
-## Ce qu je changerais
-Il y a un seul aspect que je changerais à cette oeuvre. J’afficherais davantage de personnes sur l’écran. Souvent il ne montre que les 3 dernières images vu. Mais ce serait intéressant que les images soit sauvegardée en mémoire et que de temps en temps on voit une image d’une personne qui était présente il y a quelques jours, etc. Je trouve que ce serait intéressant, surtout avec le thème de l'oeuvre de garder en mémoire plus longtemps les images des gens. Donc que le passé reste plus longtemps.
+## Aspect que je ferais autrement
+Premièrement, si je pouvais changer une chose à l'oeuvre Résonance, ce serait d'afficher sur l'écran LED davantage de vielles photos qui ont été prises il y a plus longtemps. L'écran n'affiche que les quelques dernières images prises. Ce qui serait intéressant serait que les images soient sauvegardées en mémoire et que de temps en temps on voit une image d’une personne qui était présente il y a quelques jours. Ceci renforcerait le thème de l'oeuvre et l'aspect temporelle que souhaite démontrer l'artiste, comme <i>"la manière dont les gestes du présent se superposent à ceux du passé."</i> 
+
+Ce que je ne souhaite pas retenir de l'oeuvre, c'est l'énorme arche
 
 ## Références
 - Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
