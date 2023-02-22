@@ -50,9 +50,7 @@ L’artiste voulait favoriser un œuvre simple et qui est très facile et intuit
 ![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_cartel.jpg)
 
 ![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_ecran_04.jpg)
-
 ![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_ecran_02.jpg)
-
 ![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_ecran_03.jpg)
 
 ## Type d'installation
@@ -84,13 +82,9 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 - Caméra USB
 
 ![D.E.L.](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_led.jpg)
-
 ![Arche en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_arche.jpg)
-
 ![Base en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_base.jpg)
-
 ![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
-
 ![Caméra](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_camera.jpg)
 
 ## Éléments nécessaires à la mise en exposition
@@ -108,13 +102,9 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 - Câbles audio
 
 ![Cache fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_cache_fils.jpg)
-
 ![Fils et visses](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
-
 ![Pinces](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pinces.jpg)
-
 ![Poutre de soutient métallique](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_soutient.jpg)
-
 ![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_speaker.jpg)
 
 ## Expérience vécue
@@ -122,7 +112,6 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 Résonance est une installation interactive qui permet aux gens de passer à travers une arche lumineuse qui prend en photo le corps de celui-ci. Ensuite, l'image prise est affichée sur un écran D.E.L.. Plusieurs images défilent en boucle sur cet écran. Les images semblent se diviser et se superposer en séparant les couleurs RGB et en jouant avec la transparence de l'image. Cette œuvre comporte un aspect sonore, car un son est émis lorsqu’on passe à travers celle-ci. Le son ressemble à celui d'un "scan". Il est possible pour de rester un long moment devant la caméra ou de faire différents gestes pour que la photo affichée soit étrange ou différente. Il est possible de seulement admirer l'œuvre et les photos sans avoir à interagir avec celle-ci. On peut traverser l'arche seul ou avec d'autres personnes.
 
 [![Expérience vécue](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_video_experience.jpg)](https://www.youtube.com/watch?v=Ij7CeXjXZAI)
-
 ![Expérience vécue 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_03.jpg)
 
 ## Ce qui m'a plu et qui m'a donné des idées
@@ -134,11 +123,8 @@ Deuxièmement, j'aime que cette œuvre utilise des aspects à la fois visuel et 
 Troisièmement, j'aime que l'œuvre se transforme en continu, car ça la rend davantage unique et spéciale. Les images à l'écran sont en mouvement constant et changent selon les nouvelles photos prises. Cette œuvre ne peut se répéter deux fois, il n'y aura jamais deux photos identiques prises et affichées sur l'écran. Ceci m'inspire, car ça démontre qu'une œuvre n'est pas toujours quelque chose qui reste identique. Une œuvre peut être personnalisée et être en changement selon la personne qui interagit avec.
 
 ![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_01.jpg)
-
 ![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
-
 ![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpg)
-
 ![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_04.jpg)
 
 ## Aspect que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
