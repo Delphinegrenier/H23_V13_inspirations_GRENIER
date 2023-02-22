@@ -106,5 +106,5 @@ Il y a un seul aspect que je changerais à cette oeuvre. J’afficherais davanta
 
 ## Références
 - Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
-- Site web d'Elektra https://www.elektramontreal.ca/biennale2022?lang=fr
+- Site web d'Elektra https://www.elektramontreal.ca/biennale2022?lang=fr 
 - Site web de l'Arsenal art contemporain à Montréal https://www.arsenalcontemporary.com/mtl/fr/home
