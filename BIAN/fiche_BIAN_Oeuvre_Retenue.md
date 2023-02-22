@@ -70,7 +70,7 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 
 ## Composantes et techniques
 
-- D.E.L.
+- Écran D.E.L.
 
 - Arche en bois
 
@@ -80,7 +80,7 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 
 - Caméra USB
 
-![D.E.L.](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_led.jpg)
+![Écran D.E.L.](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_led.jpg)
 ![Arche en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_arche.jpg)
 ![Base en bois](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_base.jpg)
 ![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_ordinateurs.jpg)
@@ -101,7 +101,7 @@ L'arche triangulaire se trouve sur une base en bois et est le centre de l'œuvre
 - Câbles audio
 
 ![Cache fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_cache_fils.jpg)
-![Fils et visses](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_composante_fils.jpg)
+![Fils et visses](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_fils.jpg)
 ![Pinces](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pinces.jpg)
 ![Poutre de soutient métallique](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_soutient.jpg)
 ![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_speaker.jpg)
@@ -133,7 +133,7 @@ Premièrement, si je pouvais changer une chose à l'œuvre Résonance, ce serait
 
 Deuxièmement, je ne souhaite pas retenir l'aspect matériel de cette œuvre et j'abandonnerais l'idée d'une grosse structure en bois. L'arche doit être difficile à transporter et à monter. Il faut planifier davantage d'effectifs pour la déplacer entre galerie ou expositions. Je pense que si j'avais à faire une œuvre similaire, j'utiliserais des moyens et techniques qui permettent de transporter l'œuvre plus facilement. À la place, j'utiliserais qu'un simple poteau lumineux avec une caméra. La particularité avec ce poteau serait que ses lumières changent de couleurs avec des effets différents. L'image prise s'afficherait tout de même sur un écran D.E.L..
 
-![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpg)
+![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_04.jpg)
 ## Références
 
 - Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
