@@ -2,8 +2,6 @@
 
 ## Edria 
 
-<br>
-
 ### Nom des créateurs
 
 - Elwin Durand
