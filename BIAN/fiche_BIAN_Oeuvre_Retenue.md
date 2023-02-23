@@ -13,7 +13,7 @@ Arsenal art contemporain, 2020 William, Montréal, Qc
 
 ## Type d'exposition
 
-Le type d'exposition est itinérante, puisqu'elle se promène entre galeries. Elle était présentée à l'Arsenal pendant 3 mois.
+Le type d'exposition est itinérante, puisque l'oeuvre se promène entre galeries. Elle était présentée à l'Arsenal pendant 3 mois.
 
 ## Date de la visite
 
