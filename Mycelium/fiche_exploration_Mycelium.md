@@ -16,7 +16,7 @@ D'après les créateurs, Edria est une installation intéractive qui souhaite d�
 
 D'après la page du site web tim:  
 <i>Dans cette métaphore, l'espace dans lequel notre projet sera déployé représente la nature, qui est elle-même l'espace dans lequel l'être humain a déployé son projet de société, et le climat est l'industrialisation, qui, froid et sans pitié, nous laisse avec un espace encombré de machine et dépourvue de vie. Notre oeuvre fait une deuxième alusions à l'industrialisation en incorporant des structures métalliques et artificiel dans l'espace.</i>
-###### Site web qui présente le projet https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html
+###### Site web TIM qui présente le projet: https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html
 
 ### L'installation en cours
 photo
