@@ -127,7 +127,7 @@ Troisièmement, j'aime que l'œuvre se transforme en continu, car ça la rend da
 ![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
 [![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpeg)](https://www.youtube.com/watch?v=C7cO9ps89kE&ab_channel=DelphineG)
 
-## Aspect que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
+## Aspects que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 
 Premièrement, sans vouloir enlever quoi que ce soit à l'artiste, si je pouvais changer une chose à l'œuvre Résonance, ce serait d'afficher sur l'écran davantage d'anciennes photos ayant été prises il y a plus longtemps. L'écran n'affiche que les quelques dernières images prises. Autrement dit, ce qui serait intéressant serait que les images soient sauvegardées en mémoire et qu'elles s'affichent de manière récurrente. D'après moi, ceci renforcerait le thème de l'œuvre et l'aspect temporel que souhaite démontrer l'artiste.
 
