@@ -45,7 +45,7 @@ Site web de l'artiste Louis-Philippe Rondeau http://patenteux.com/wp/
 
 En d'autres mots, l’artiste voulait montrer que les gestes que l'on pose présentement deviennent alors ceux du passé et ainsi de suite. Alors, au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que le passé reste, que ce soit numériquement ou dans la mémoire de chacun. Lorsque l'on passe au travers l'œuvre et que notre photo est prise, ce simple geste qu'est de marcher dans une direction est un geste maintenant passé, sauf qu'elle est gardée en mémoire. Alors, chacune de nos actions compte et même si elles sont passées, elles peuvent tout de même resurgir et s'additionner avec le présent.
 
-L’artiste voulait favoriser une œuvre simple et qui est très facile et intuitive pour les gens. L'œuvre en elle-même est très complexe et demande plusieurs codes informatiques et composantes électriques pour qu'elle fonctionne, cependant elle semble très minimaliste et invite les gens à la traverser.
+L’artiste voulait favoriser une œuvre simple et qui est très facile et intuitive pour les gens. D'un autre côté, l'œuvre en elle-même est très complexe et demande plusieurs codes informatiques et composantes électriques pour qu'elle fonctionne, cependant elle semble très minimaliste et invite les gens à la traverser.
 
 ![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_cartel.jpg)
 
