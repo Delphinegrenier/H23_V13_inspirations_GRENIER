@@ -21,7 +21,7 @@ La date de la visite était le 2 février 2023.
 
 ## Titre de l'œuvre
 
-Le titre de l'œuvre choisi est: Résonance.
+Le titre de l'œuvre choisie est: Résonance.
 
 ![Vue d'ensemble de l'œuvre](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_vue_ensemble.jpg)
 
