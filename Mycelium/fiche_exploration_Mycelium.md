@@ -12,7 +12,7 @@
 - Jean-Christophe
 
 ### Lien avec le thème:
-D'après les créateurs, Edria est une installation intéractive qui souhaite démonter une dualité entre la technologie et la nature. Le liens entre les connections humaines et les connections informatiques que possèdent l'oeuvre, ressemblent à la communication entre les champignons via leur mycelium. L'installation sera à l'exterieur entouré de végétations. Cependant, les créateurs ont aussi pensé à l'utilisation de fausses plantes installées sur les poteaux pour rendre l'ambiance encore plus immersive. Comme le thème l'indique, cette installation reflète de l'importance des connections et communications dans la nature.
+D'après les créateurs, Edria est une installation intéractive qui souhaite démonter une dualité entre la technologie et la nature. Le liens entre les connections humaines et les connections informatiques que possèdent l'oeuvre, ressemblent à la communication entre les champignons via leur mycélium. L'installation sera à l'exterieur entouré de végétations. Cependant, les créateurs ont aussi pensé à l'utilisation de fausses plantes installées sur les poteaux pour rendre l'ambiance encore plus immersive. Comme le thème l'indique, cette installation reflète de l'importance des connections et communications dans la nature.
 
 D'après la page du site web tim:  
 <i>Dans cette métaphore, l'espace dans lequel notre projet sera déployé représente la nature, qui est elle-même l'espace dans lequel l'être humain a déployé son projet de société, et le climat est l'industrialisation, qui, froid et sans pitié, nous laisse avec un espace encombré de machine et dépourvue de vie. Notre oeuvre fait une deuxième alusions à l'industrialisation en incorporant des structures métalliques et artificiel dans l'espace.</i>
@@ -32,6 +32,9 @@ photo
 - Maxime Des Lauriers
 
 ### Lien avec le thème:
+Premièrement, les créateurs souhaitent mettre l'emphase sur la connection entre des lumières, des animations et des sons. C'est une communication entre les éléments comme le rappelle le thème de l'exposition. Le mot "Nexum" veut dire "connection" en latin. Leur projet est un parcous intéractif enchanteur illuminé et musical qui plonge l'intéracteur à essayer le projet. Il y a un rapport entre les humains et la nature et la communication entre ceux-ci. Les animations du projets ont une thématique sur la nature et les champignons. On peut les regarder grâce à des codes QR qu'on peut scanner. 
+
+
 
 ## Echomarine
 
