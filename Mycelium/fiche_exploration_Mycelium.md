@@ -36,6 +36,7 @@ Premièrement, les créateurs souhaitent mettre l'emphase sur la connection entr
 
 D'après le site web TIM:<br>
 <i>Une expérience lumineuse immergeante, des animations sensationnel et une ambiance musical des plus spécial. Ce parcours interactif permet la communion entre l'humain et la nature tout en nous plongeant au coeur d'un marais aux apparences magique.</i>
+###### Site web TIM qui présente le projet: 
 
 ### L'installation en cours
 photo
@@ -56,6 +57,7 @@ Le but de l'installation est de sensibilier les gens aux animaux marins en voie 
 
 D'après le site web TIM:<br>
 <i>Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.</i>
+###### Site web TIM qui présente le projet: 
 
 ### L'installation en cours
 photo
@@ -66,13 +68,17 @@ photo
 
 ## Lumasol
 ### Nom des créateurs
--Éloïse Gagné
+- Éloïse Gagné
+- Skayla Stimphil
+- Michaël Simard
+- Pénélope Morrisson
 
 ### Lien avec le thème:
-
+L'installation Lumasol amène l'intéracteur à pédaler pour que des lumières se trouvant dans un arbre s'illumine et qu'une musique joue. Il y a donc une connection et communication entre le geste de l'intéracteur et les éléments techniques. L'installation à une thématique sur la nature, surtout par l'utilisation d'un arbre comme "structure" sur laquelle y est installée des lumières changeantes.
 
 D'après le site web TIM:<br>
 <i>Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.</i>
+###### Site web TIM qui présente le projet: 
 
 ### L'installation en cours
 photo
@@ -80,4 +86,4 @@ photo
 photo
 <br>
 <br>
-## Zodie-gal
+
