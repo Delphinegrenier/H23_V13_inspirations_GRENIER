@@ -35,7 +35,6 @@ photo
 Premièrement, les créateurs souhaitent mettre l'emphase sur la connection entre des lumières, des animations et des sons. C'est une communication entre les éléments comme le rappelle le thème de l'exposition. Le mot "Nexum" veut dire "connection" en latin. Leur projet est un parcous intéractif enchanteur illuminé et musical qui plonge l'intéracteur à essayer le projet. Il y a un rapport entre les humains et la nature et la communication entre ceux-ci. Les animations du projets ont une thématique sur la nature et les champignons. On peut les regarder grâce à des codes QR qu'on peut scanner. 
 
 D'après le site web TIM:
-
 <i>Une expérience lumineuse immergeante, des animations sensationnel et une ambiance musical des plus spécial. Ce parcours interactif permet la communion entre l'humain et la nature tout en nous plongeant au coeur d'un marais aux apparences magique.</i>
 
 ### L'installation en cours
