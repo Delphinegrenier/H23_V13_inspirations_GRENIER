@@ -46,13 +46,16 @@ photo
 
 ## Echomarine
 ### Nom des créateurs
-
+- Florence Lapierre
+- Natacha Abdallah
+- Tracy Gua
+- Maria Laura Coronel
 
 ### Lien avec le thème:
-
+Le but de l'installation est de sensibilier les gens aux animaux marins en voie de disparition. Le thème de l'oeuvre est donc la nature. Il y a une connection entre les animations et la musique et les sons ambiants. L'intéracteur est directement
 
 D'après le site web TIM:<br>
-<i></i>
+<i>Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.</i>
 
 ### L'installation en cours
 photo
