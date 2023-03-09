@@ -52,7 +52,7 @@ photo
 - Maria Laura Coronel
 
 ### Lien avec le thème:
-Le but de l'installation est de sensibilier les gens aux animaux marins en voie de disparition. Le thème de l'oeuvre est donc la nature. Il y a une connection entre les animations et la musique et les sons ambiants. L'intéracteur est directement
+Le but de l'installation est de sensibilier les gens aux animaux marins en voie de disparition. Le thème de l'oeuvre est donc la nature. Il y a une connection entre les animations, la musique et les sons ambiants. L'intéracteur communique avec une tablette qui est relié au plus grand réseau de connection... l'internet. L'internet, ressemble au mycelium qui sert à la communication entre champignons.
 
 D'après le site web TIM:<br>
 <i>Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.</i>
