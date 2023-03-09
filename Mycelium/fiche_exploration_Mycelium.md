@@ -65,5 +65,19 @@ photo
 <br>
 
 ## Lumasol
+### Nom des créateurs
 
+
+### Lien avec le thème:
+
+
+D'après le site web TIM:<br>
+<i>Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humains de demeurer en contact avec la nature en raison de l'urgence climatique que nous vivons actuellement. C'est par l'action, en pédalant dans ce cas, qu'on peut avoir un impact positif sur l'environnement lumineux.</i>
+
+### L'installation en cours
+photo
+### Le schéma d'installation
+photo
+<br>
+<br>
 ## Zodie-gal
