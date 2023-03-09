@@ -66,7 +66,7 @@ photo
 
 ## Lumasol
 ### Nom des créateurs
-
+-Éloïse Gagné
 
 ### Lien avec le thème:
 
