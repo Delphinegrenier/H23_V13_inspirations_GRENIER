@@ -6,7 +6,7 @@ Collecteur de mémoires
 
 
 ### Lieu de mise en exposition
-Musée pointe à Callière, 350, place Royale, angle de la Commune, Montréal
+Musée Pointes-à-Callière, 350, place Royale, angle de la Commune, Montréal
 
 
 ### Type d'exposition
