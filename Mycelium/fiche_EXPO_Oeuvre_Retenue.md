@@ -25,9 +25,14 @@ Le titre de l'œuvre choisie est: Edria.
 
 ![Vue d'ensemble de l'œuvre]()
 
-## Nom des artistes
+## Nom des créateurs
 
-
+- Elwin Durand
+- Loic Delorme
+- Dominic Roberts
+- Gabriel Leblanc
+- Meryem Berbiche
+- Jean-Christophe
 
 ## Année de réalisation
 
