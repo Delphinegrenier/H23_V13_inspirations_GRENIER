@@ -19,9 +19,10 @@ D'après la page du site web TIM:<br>
 ###### Site web TIM qui présente le projet: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 ### L'installation en cours
-photo
+![Edria installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_01.jpg)
+![Edria installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_02.jpg)
 ### Le schéma d'installation
-photo
+![Schéma d'installation d'Edria]()
 <br>
 <br>
 ## Nexum
@@ -39,9 +40,10 @@ D'après le site web TIM:<br>
 ###### Site web TIM qui présente le projet: https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 
 ### L'installation en cours
-photo
+![Nexum installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_nexum_01.jpg)
+![Nexum installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_nexum_02.jpg)
 ### Le schéma d'installation
-photo
+![Schéma d'installation de Nexum]()
 <br>
 <br>
 
@@ -60,9 +62,10 @@ D'après le site web TIM:<br>
 ###### Site web TIM qui présente le projet: https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 ### L'installation en cours
-photo
+![Echomarine installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_echomarine_01.jpg)
+![Echomarine installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_echomarine_02.jpg)
 ### Le schéma d'installation
-photo
+![Schéma d'installation d'Echomarine]()
 <br>
 <br>
 
@@ -81,9 +84,10 @@ D'après le site web TIM:<br>
 ###### Site web TIM qui présente le projet: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 ### L'installation en cours
-photo
+![Lumasol installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_lumasol_01.jpg)
+![Lumasol installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_lumasol_02.jpg)
 ### Le schéma d'installation
-photo
+![Schéma d'installation de Lumasol()
 <br>
 <br>
 
