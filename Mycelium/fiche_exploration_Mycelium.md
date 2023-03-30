@@ -87,7 +87,7 @@ D'après le site web TIM:<br>
 ![Lumasol installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_lumasol_01.jpg)
 ![Lumasol installation](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_lumasol_02.jpg)
 ### Le schéma d'installation
-![Schéma d'installation de Lumasol(https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_lumasol_schema.png)
+![Schéma d'installation de Lumasol](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_lumasol_schema.png)
 <br>
 <br>
 
