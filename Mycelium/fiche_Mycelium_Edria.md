@@ -56,7 +56,7 @@ Cette installation est intéractive.
 ![Vue parlante]()
 
 ## Mise en espace
-
+Premièrement, cette installation se trouvait à l'extérieur du Collège Montmorency, près de la porte 3. Le positionnement de cette installation fut réfléchi pour s'incorporer avec le petit aménagement d'arbustres et de chemins piétonnier. Il y a deux tables à picnic dans l'espace, qui permet aux étudiants et autres visiteurs de s'y asseoir et de profiter autant de l'air frais ainsi que de la musique et des lumières de l'installation. Même si la température est imprévisible, il est toujours possible de profiter de cette installation, même lorsqu'il neige ou pleut. Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 piliers métaliques dans chaque coins, ainsi qu'un grand pilier au centre. Ces piliers ont des plantes en plastique qui donne l'impression qu'elles proviennent des arbustres autours et qui ont grimpés sur ceux-ci. 
 ![Croquis]()
 ![Vue d'ensemble]()
 
@@ -91,7 +91,6 @@ Cette installation est intéractive.
 ![Système sonore]
 
 ## Expérience vécue
-
 
 
 ![Expérience vécue 1]
