@@ -93,12 +93,21 @@ Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 pili
 ![Système sonore]
 
 ## Expérience vécue
+Edria est une expérience intéractive qui permet aux gens de. Lorsque l'on entre dans l'espace révervée à cette installation, il y a de grosses boules lumineuses qui éclair l'espace avec des couleurs en intervale. Ces changements de lumières se font lentement. Une musique peut être entendu et celle-ci est douce et calme. Le pilier central comporte 4 sensor. Lorsqu'un individu déclenche un sensor, un bruitage peut être entendu et la lumière semble plus forte. Chaque sensor, lorsque déclenché, émet un bruit différent. L'interacteur peut donc s'amuser à découvrir chaque son en marchant autour de ce poteau central. Lorsque l'intéracteur est accompagné d'autres personnes, tous les sensors peuvent être déclencher en même temps. Lorsque ceci se produit, une musique forte, énergique et rapide peut être entendu. Le jeu de lumière augmente de vitesse et suit le rythme de la musique. Ce spectacle impressionnant dur 45 secondes à une minute. Ensuite, toutes les lumières et son cessent, laissant l’espace silencieux et sombre. Quelques secondes plus tard, la lumière reprend sa place et un son d’activation peut être entendu, ressemblant à un redémarrage. L’installation est en veille, et un bruit de respiration envahit l’espace. Les lumières s’éteignent et s’allument au rythme de la respiration. Cette respiration cesse après plusieurs secondes ou lorsque l’on active un sensor à nouveau. Il est également possible de seulement admirer l'œuvre sans avoir à interagir avec celle-ci.  
 
+Mon expérience personnelle fut très agréable. J’étais très impressionnée de la taille de l’œuvre ainsi que des sons et lumières associées à celle-ci. Lorsque je suis entrée dans l’espace, j’ai tout d'abord regardé la technique et les composantes sur les piliers, car cela m’intéressait. Le fonctionnement de l'installation est intuitif, donc je me suis avancée vers le centre pour déclencher un sensor et j’ai entendu un bruit autour de moi. J’étais accompagnée d’une autre personne qui découvrait l’œuvre en même temps que moi et nous avons réussi à déclencher tous les sensor ensembles. Le spectacle de lumière autour de nous fût impressionnant et nous avons observé celui-ci jusqu’à la fin, avant de quitter.  
 
 ![Expérience vécue 1]
 [![Expérience vécue 2]
 
 ## Ce qui m'a plu et qui m'a donné des idées
+Premièrement, ce qui m'a plu davantage est l'interactivité de l'œuvre, car il est possible d'intéragir avec et de découvrir ses fonctionnalités, ce qui devient plus intéressant qu'une œuvre contemplative. Les visiteurs semblaient vraiment intéressés par le fait de marcher dans l'espace et d’essayer de déclencher les sensor. Ceci m'inspire, car lorsque l'on crée une œuvre, on souhaite que les gens s'arrêtent longtemps devant celle-ci et parte avec un bon souvenir. La technique derrière de telle oeuvre est imprésionnante et j'aimerais pouvoir en apprendre davantage pour créer des installations semblables.
+
+Deuxièmement, j'aime que cette oeuvre soit intuitive dans son utilisation et accessible à tous. Lorsque l'on crée une oeuvre, il est important de réfléchir 
+
+
+Troisièmement,j'aime que cette œuvre utilise des aspects à la fois visuels et sonores. L'utilisation de différents médiums multimédia rend l'œuvre davantage immersive. J'aime que lorsque l'on passe devant la caméra, un son qui ressemble à celui d'un "scan" puisse être entendu. Après avoir été "scanné", il est intéressant de voir son image apparaître sur l'écran. Un autre aspect visuel que j'ai apprecié est la lumière intégrée dans l'arche. C'est inspirant, car cette œuvre contient plusieurs techniques qui peuvent être utilisées dans l'un de mes projets. L'aspect de lumière me donne des idées, car cette lumière peut attirer l'œil des gens.
+
 
 
 
