@@ -17,7 +17,7 @@ Le type d'exposition est temporaire.
 
 ## Date de la visite
 
-La date de la visite était le samedi 23 mars 2023.
+La date de la visite était le jeudi 23 mars 2023.
 
 ## Titre de l'œuvre
 
