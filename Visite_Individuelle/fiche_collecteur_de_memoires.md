@@ -1,4 +1,4 @@
-# Titre
+# Collecteur de mémoires
 
 ## Nom de l'exposition
 Collecteur de mémoires
