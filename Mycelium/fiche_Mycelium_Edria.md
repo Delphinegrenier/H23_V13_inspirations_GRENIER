@@ -118,7 +118,9 @@ Troisièmement, j'aime que cette œuvre utilise différents médiums multimédia
 
 ## Aspects que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 
+Premièrement, sans vouloir enlever quoi que ce soit aux créateurs de cette installation, si je pouvais changer une chose à cette œuvre, j’ajouterais davantage de fausses plantes et autres éléments rappelant la nature. Je trouve que ces plantes renforçaient le thème de l’exposition. Il aurait été intéressant d’entrée dans un environnement encore plus enchanteurs avec ces plantes peintures en différentes couleurs et des champignons de différentes grosseurs qui poussent au sol des poutres de soutient métalliques.  
 
+Deuxièmement, pour mes futurs projets, je voudrais davantage cacher les composantes utilisées pour rendre l’œuvre plus immersive. Le but est de créer un environnement enchanteur dans lequel l’interacteur s’immerge, donc j’utiliserais des techniques pour cacher les fils et les fondre dans le décor. J’utiliserais les arbustes ou autres végétations pour y inclure les fils et les cacher davantage.  
 
 ![Élément pertinent]
 ## Références
