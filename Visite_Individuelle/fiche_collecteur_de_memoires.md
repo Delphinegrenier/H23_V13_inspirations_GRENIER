@@ -101,6 +101,6 @@ Deuxièmement, je ne désirerais pas retenir l'aspect matériel de cette œuvre 
 ![Élément pertinent]
 ## Références
 
-- Site web du musée Pointe-à-Callière http://patenteux.com/wp/
+- Site web du musée Pointe-à-Callière https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
 
-- Site web de la firme Moment Factory : https://momentfactory.com/projets/tous/tous/collecteur-de-memoires
+- Site web de la firme Moment Factory https://momentfactory.com/projets/tous/tous/collecteur-de-memoires
