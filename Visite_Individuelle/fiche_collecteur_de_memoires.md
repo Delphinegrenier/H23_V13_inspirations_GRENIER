@@ -35,7 +35,13 @@ L'année de réalisation de l'œuvre est: 2017.
 
 ## Description de l'œuvre
 
+D'après le site web du musée Pointe-à-Callière: <i> [...] Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion.
+
+Dans le souci de respecter l’esprit du lieu, la mise en valeur de cet impressionnant collecteur plonge le visiteur dans un monde souterrain quasi mystérieux qui le transporte au cœur d’un espace magique porteur d’histoire et chargé d’émotions.  </i>
+
 Site web de la firme Moment Factory : https://momentfactory.com/projets/tous/tous/collecteur-de-memoires
+Site web du musée Pointe-à-Callière https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
+
 
 
 ![Cartel]()
