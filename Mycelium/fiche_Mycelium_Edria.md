@@ -74,8 +74,6 @@ Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 pili
 
 ## Composantes et techniques
 
-
-
 ![Écran D.E.L.]()
 ![Arche en bois]()
 ![Composantes électroniques ordinateurs]()
@@ -85,16 +83,13 @@ Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 pili
 ## Éléments nécessaires à la mise en exposition
 
 - Cache fils
-
 - Câbles
-
 - Pinces en plastique
-
 - Poutre de soutien métallique
-
 - Système sonore
-
 - Câbles audio
+- Fausses plantes
+- 
 
 ![Cache fils]
 ![Fils et visses]
