@@ -67,23 +67,9 @@ Cette installation est contemplative.
 
 ## Éléments nécessaires à la mise en exposition
 
-- Cache fils
-
-- Câbles
-
-- Pinces en plastique
-
-- Poutre de soutien métallique
-
-- Système sonore
 
 - Câbles audio
 
-![Cache fils](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_cache_fils.jpg)
-![Fils et visses](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_fils.jpg)
-![Pinces](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pinces.jpg)
-![Poutre de soutient métallique](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_soutient.jpg)
-![Système sonore](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_speaker.jpg)
 
 ## Expérience vécue
 
@@ -91,8 +77,8 @@ Résonance est une installation interactive qui permet aux gens de passer à tra
 
 Mon expérience personnelle de l'œuvre fut agréable. Après avoir vu d'autres visiteurs intéragir avec l'œuvre, j'avais hâte d'essayer à mon tour. Je me suis positionnée vers l'arche et je l'ai traversée, toujours en regardant l'écran pour être prête à y apercevoir mon image s'afficher. Je suis restée un moment près de l'écran pour observer ma photo défiler avec d'autres. Au même moment, j'ai entendu l'arche émettre un son et j'ai aperçu l'image d'un de mes collègues de classe s'afficher à l'écran à côté de la mienne. Il venait de traverser l'arche à son tour. Je me suis questionnée sur la technique derrière une telle œuvre.
 
-![Expérience vécue 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_oeuvre_experience_02.jpg)
-[![Expérience vécue 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_video_experience.jpg)](https://www.youtube.com/watch?v=Ij7CeXjXZAI)
+![Expérience vécue 1]
+[![Expérience vécue 2]
 
 ## Ce qui m'a plu et qui m'a donné des idées
 
@@ -102,9 +88,9 @@ Deuxièmement, j'aime que cette œuvre utilise des aspects à la fois visuels et
 
 Troisièmement, j'aime que l'œuvre se transforme en continu, car ça la rend davantage unique et spéciale. Les images à l'écran sont en mouvement constant et changent selon les nouvelles photos prises. Cette œuvre ne peut se répéter, il n'y aura jamais deux photos identiques prises et affichées sur l'écran. Ceci m'inspire, car ça démontre qu'une œuvre n'est pas toujours quelque chose de statique. Une œuvre peut être personnalisée et être en changement selon la personne qui interagit avec.
 
-![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_01.jpg)
-![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_02.jpg)
-[![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_03.jpeg)](https://www.youtube.com/watch?v=C7cO9ps89kE&ab_channel=DelphineG)
+![Élément pertinent 1]
+![Élément pertinent 2]
+[![Élément pertinent 3]
 
 ## Aspects que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 
@@ -112,11 +98,9 @@ Premièrement, sans vouloir enlever quoi que ce soit à l'artiste, si je pouvais
 
 Deuxièmement, je ne désirerais pas retenir l'aspect matériel de cette œuvre et j'abandonnerais l'idée d'une grosse structure en bois. Avoir de gros éléments peut être difficile à transporter et à monter. Il faut planifier davantage d'effectifs pour la déplacer entre galeries ou expositions. Je pense que si j'avais à faire une œuvre similaire, j'utiliserais des moyens et techniques qui permettent de transporter l'œuvre plus facilement. À la place, j'utiliserais qu'un simple poteau lumineux avec une caméra. La particularité avec ce poteau serait que ses lumières changeraient de couleurs avec des effets différents. L'image prise s'afficherait tout de même sur un écran D.E.L.
 
-![Élément pertinent](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/BIAN/media/resonance_element_pertinent_04.jpg)
+![Élément pertinent]
 ## Références
 
-- Site web de l'artiste Louis-Philipe Rondeau http://patenteux.com/wp/
+- Site web du musée Pointe-à-Callière http://patenteux.com/wp/
 
-- Site web d'Elektra https://www.elektramontreal.ca/biennale2022?lang=fr
-
-- Site web de Arsenal art contemporain à Montréal https://www.arsenalcontemporary.com/mtl/fr/home 
+- Site web de la firme Moment Factory : https://momentfactory.com/projets/tous/tous/collecteur-de-memoires
