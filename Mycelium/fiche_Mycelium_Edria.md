@@ -40,6 +40,16 @@ L'année de réalisation de l'œuvre est: 2023.
 
 ## Description de l'œuvre
 
+Edria est une installation interactive créée en 2023 par un groupe d’étudiants en technique d’intégration multimédias du Collège Montmorency. Cette installation a été créer pour leur projet final afin d’obtenir leur diplôme et réussir leur technique. Celle-ci est impressionnante par sa taille et sa mise en espace. Un pilier central comprenant des capteurs permet la détection des interacteurs. Lorsque l’un de ceux-ci est déclenché, un bruit peut être entendu et les lumières ambiantes se trouvant sur les piliers autours de celui-ci changent. Lorsque tous les capteurs sont déclencher, il y a un jeu de lumière et de la musique qui joue pendant une minute. Finalement, le spectacle se termine et l’installation entre en de veille. 
+
+D'après le cartel d’exposition : <i>“Edria vise à rassembler autour d’une sculpture interactive représentant la dualité entre la technologie et la nature.”</i>
+
+En effet, le site TIM décrit en profondeur les intentions du projet : <i>“Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser...” </i>
+
+En d’autres mots, les créateurs d’Edria voulaient montrer une connexion entre les gens, la technologie et la nature. En effet, l’interaction humaine est requise pour que cette installation puisse fonctionner comme elle a été créer. Il y a donc un lien direct entre ces éléments qui sont tout aussi importants les uns que les autres. Ces éléments reliés entre-elle sont cohérente avec le thème de l’exposition: “Mycélium”, l’élément qui sert à la connexion entres les champignons.  
+
+Les créateurs voulaient s’assurer d’une œuvre immersive qui attire l’attention des interacteurs. Ils voulaient s’assurer d’un environnement enchanteur qui sort de l’ordinaire. L'allure de l’œuvre en elle-même a un aspect très mécanique et techniques, de par les piliers métalliques et les capteurs, cependant l’ajout de fausses plantes et de boules lumineuses rappelle la thématique de la nature. 
+
 Site web de TIM, page parlant de l'oeuvre : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 
