@@ -1,4 +1,4 @@
-# La conception multimédia, un domaine enrichissant 
+# La conception multimédia, un domaine enrichissant  
 
 Lors du 30 mars 2023, nous avons assisté à la conférence de Yanik Daunais, directeur général et producteur chez Halo Création, une firme de conception multimédia dans le monde muséal. Yanik a travaillé comme gestionnaire et en ressources humaines ainsi qu’en production de disques et en création avant de travailler chez Halo Création. La conférence portait sur les étapes de création de contenus multimédia ainsi que du travail de technicien d’intégration multimédia dans le domaine muséal.  
 
