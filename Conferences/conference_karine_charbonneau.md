@@ -1,1 +1,8 @@
-d
+#Lorsque l’art et la technologie s'unissent. 
+####Conférence de Karine Charbonneau  
+
+Lors du 28 mars 2023, nous avons assisté à la conférence de Karine Charbonneau, directrice des expositions pour Antimodular, le studio de l’artiste Rafael Lozano-Hemmer. Elle a des études en Communications ainsi qu’en Arts et Technologies. Elle a travaillé à Montréal, Berlin et Madrid sur différents projets médiatiques avant de rencontrer Rafael Lozano-Hemmer. Elle travaille auprès de celui-ci depuis maintenant 15 ans. Le thème de la conférence portait sur son rôle à Antimodular, le fonctionnement du studio, du travail de l’artiste et de l’exposition de ses œuvres. 
+
+Premièrement, Karine a parlé de l’artiste et a présenté quelques projets à l’aide d’une vidéo. Elle a expliqué que Rafael Lozano-Hemmer est un artiste mexicain-canadien avec des études en chimie. Il dit : “Une œuvre n’existe pas tant que personne n’ait participer.” La technologie sert de support à ses concepts. Ensuite, celle-ci a expliqué le fonctionnement du studio Antimodular. Ce studio sert de support au développement créatif de l’artiste. Elle explique l’importante de la documentation intensive de tous les projets. Elle confirme que c’est la responsabilité de chacun dans l’équipe de noter, prendre en photos et faire les mises à jour des manuels et autres documentations.  
+
+Finalement, j’ai apprécié cette conférence malgré que j’aie dû quitter avant la fin pour un conflit d’horaire. J'ai aimé l’utilisation de médias, comme le PowerPoint et les vidéos, pour montrer visuellement les œuvres de l’artiste et le contenu de la conférence. J’ai aussi aimé les informations présentées, car elles étaient détaillées et pertinentes ce qui m’a permis d’en apprendre davantage sur le domaine des arts médiatiques.  
