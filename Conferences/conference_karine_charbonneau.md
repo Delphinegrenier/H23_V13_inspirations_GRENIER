@@ -1,5 +1,5 @@
-#Lorsque l’art et la technologie s'unissent. 
-####Conférence de Karine Charbonneau  
+# Lorsque l’art et la technologie s'unissent. 
+#### Conférence de Karine Charbonneau  
 
 Lors du 28 mars 2023, nous avons assisté à la conférence de Karine Charbonneau, directrice des expositions pour Antimodular, le studio de l’artiste Rafael Lozano-Hemmer. Elle a des études en Communications ainsi qu’en Arts et Technologies. Elle a travaillé à Montréal, Berlin et Madrid sur différents projets médiatiques avant de rencontrer Rafael Lozano-Hemmer. Elle travaille auprès de celui-ci depuis maintenant 15 ans. Le thème de la conférence portait sur son rôle à Antimodular, le fonctionnement du studio, du travail de l’artiste et de l’exposition de ses œuvres. 
 
