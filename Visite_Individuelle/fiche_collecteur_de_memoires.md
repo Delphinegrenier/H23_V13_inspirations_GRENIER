@@ -85,7 +85,13 @@ Cette installation est contemplative.
 [![Expérience vécue 2]
 
 ## Ce qui m'a plu et qui m'a donné des idées
+Premièrement, ce qui m'a plu davantage est l'interactivité de l'œuvre, car il est possible d'intéragir avec et de découvrir ses fonctionnalités, ce qui devient plus intéressant qu'une œuvre contemplative. Les visiteurs semblaient vraiment intéressés par le fait de marcher dans l'espace et d’essayer de déclencher les sensor. Ceci m'inspire, car lorsque l'on crée une œuvre, on souhaite que les gens s'arrêtent longtemps devant celle-ci et parte avec un bon souvenir. La technique derrière de telle oeuvre est imprésionnante et j'aimerais pouvoir en apprendre davantage pour créer des installations semblables.
 
+Deuxièmement, j'aime que cette œuvre soit intuitive dans son utilisation et accessible à tous. Les interacteurs de tous les âges semblaient comprendre rapidement que de passer devant les quatre côtés de la poutre de soutient métallique centrale créait du bruit et des jeux de lumières. Cela m’inspire, car je trouve qu’il est important de réfléchir au public cible lorsque l’on crée une œuvre. Il est important que tout le monde puisse interagir avec et comprendre son fonctionnement pour pouvoir expérimenter l’œuvre et son plein potentiel.
+
+Troisièmement, j'aime que cette œuvre utilise différents médiums multimédias. L'utilisation de différentes techniques, à la fois visuelle et sonore, rend l'œuvre davantage immersive. Je trouve que le bruit de respiration ainsi que la lumière qui suit ce rythme lorsque l’installation est en “état de veille” est bien penser, car après l’énorme spectacles, l’œuvre “se repose”. Je trouve cela inspirant, car ce sont des techniques qui peuvent être utilisées dans mes futurs projets.
+
+Premièrement, ce qui m'a plus davantage est que cette œuvre utilise différents médiums multimédias. L'utilisation de différentes techniques, à la fois visuelle et sonore, rend l'œuvre davantage immersive. Je trouve que 
 
 ![Élément pertinent 1]
 ![Élément pertinent 2]
