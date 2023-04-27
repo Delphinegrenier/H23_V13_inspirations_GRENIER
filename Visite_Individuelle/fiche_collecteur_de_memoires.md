@@ -91,7 +91,11 @@ Deuxièmement, j'aime que cette œuvre soit intuitive dans son utilisation et ac
 
 Troisièmement, j'aime que cette œuvre utilise différents médiums multimédias. L'utilisation de différentes techniques, à la fois visuelle et sonore, rend l'œuvre davantage immersive. Je trouve que le bruit de respiration ainsi que la lumière qui suit ce rythme lorsque l’installation est en “état de veille” est bien penser, car après l’énorme spectacles, l’œuvre “se repose”. Je trouve cela inspirant, car ce sont des techniques qui peuvent être utilisées dans mes futurs projets.
 
-Premièrement, ce qui m'a plus davantage est que cette œuvre utilise différents médiums multimédias. L'utilisation de différentes techniques, à la fois visuelle et sonore, rend l'œuvre davantage immersive. Je trouve que 
+Premièrement, ce qui m'a plus davantage est que cette œuvre utilise différentes techniques multimédias. L'utilisation de ces médium, à la fois visuelle et sonore, rend l'œuvre davantage immersive. Je trouve que les jeu de lumières qui changent tout le long de l'égout met en valeur ses parroies et crée une ambiance invitante lorsqu'on le traverse. 
+
+Deuxièmement, j'aime que cette oeuvre ait un aspect à la fois artistique et historique. Mélanger ces concepts peut permemettre d'en apprendre davantage sur l'histoire tout en modernisant et rendant plus accessible celle-ci. De plus, cela permet d'attirer un nouveau publique qui 
+
+Troisièmement, j'aime que cette œuvre soit accessible à tous. Les interacteurs de tous les âges peuvent apprécier et visiter cette oeuvre. Cela m’inspire, car je trouve qu’il est important de réfléchir au public cible lorsque l’on crée une œuvre et l'accessibilité de celle-ci. Il est important que tout le monde puisse 
 
 ![Élément pertinent 1]
 ![Élément pertinent 2]
