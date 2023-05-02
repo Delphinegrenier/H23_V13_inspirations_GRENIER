@@ -72,7 +72,8 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 ![Vue d'ensemble]()
 
 ## Composantes et techniques
-
+- Animations et projections 
+- Projecteurs
 
 
 ![Écran D.E.L.]()
@@ -82,10 +83,12 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 ![Base en bois]()
 
 ## Éléments nécessaires à la mise en exposition
-
-
+- Platforme métallique
+- Bandes LEDs
+- Lumières
+- Système de son
 - Câbles audio
-
+- Protecteur de projecteur
 
 ## Expérience vécue
 
@@ -100,9 +103,7 @@ Deuxièmement, j'aime que cette oeuvre ait un aspect à la fois artistique et hi
 
 Troisièmement, j'aime que cette œuvre soit accessible à tous. Les interacteurs de tous les âges peuvent apprécier et visiter cette oeuvre. Cela m’inspire, car je trouve qu’il est important de réfléchir au public cible lorsque l’on crée une œuvre et l'accessibilité de celle-ci. Il est important que tout le monde puisse 
 
-![Élément pertinent 1]
-![Élément pertinent 2]
-[![Élément pertinent 3]
+![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent.jpg)
 
 ## Aspects que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 
@@ -111,7 +112,8 @@ Premièrement, tout en respectant le travail des créateurs de cette installatio
 
 Deuxièmement, je mettrais ces animations et projections tout le long du tunnel et non seulement a un endroit du tunnel. Pour mes futures créations, je m'assurerais que mon oeuvre soit réparti de façon égale tout au long de celui-ci pour que l'expérience soit davantage immersive. 
 
-![Élément pertinent]
+![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_02.jpg)
+![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_03.jpg)
 ## Références
 
 - Site web du musée Pointe-à-Callière https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
