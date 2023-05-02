@@ -133,7 +133,7 @@ Premièrement, sans vouloir enlever quoi que ce soit aux créateurs de cette ins
 
 Deuxièmement, pour mes futurs projets, je voudrais davantage cacher les composantes utilisées pour rendre l’œuvre plus immersive. Le but est de créer un environnement enchanteur dans lequel l’interacteur s’immerge, donc j’utiliserais des techniques pour cacher les fils et les fondre dans le décor. J’utiliserais les arbustes ou autres végétations pour y inclure les fils et les cacher davantage.  
 
-![Élément pertinent]
+[![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_pertinent_video_02.jpg)](https://youtu.be/FdkSmdOLzbw)
 ## Références
 
 Site web de TIM, page parlant de l'oeuvre : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
