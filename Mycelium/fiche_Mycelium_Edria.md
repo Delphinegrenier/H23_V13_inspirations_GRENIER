@@ -75,29 +75,38 @@ Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 pili
 ## Composantes et techniques
 - Fausses plantes
 - Lumières 
-- Composantes électroniques et ordinateurs
-- Capteurs de mouvements
+- Composantes électroniques 
 - Banques sonores et musicales
-- 
-Fausses plantes et lumières ![Fausses plantes, Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_haut_parleur.jpg)
-Composantes électroniques, ordinateurs, banques sonores et musicales ![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_composantes.jpg)
-Capteurs de mouvements ![Capteurs de mouvements](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_sensor.jpg)
+- Capteurs de mouvements
+
+#### Fausses plantes et lumières 
+![Fausses plantes, Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_LED.jpg)
+#### Composantes électroniques, banques sonores et musicales
+![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_composantes.jpg)
+#### Capteurs de mouvements 
+![Capteurs de mouvements](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_sensor.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 
-- Câbles audios et autres
+- Câbles audios et autres fils
+- Poutre de soutien métallique
 - Pinces en plastique
-- Poutres de soutien métalliques
-- Systèmes sonores
+- Systèmes de son
+- Boîte de protection
 - Protecteurs de câbles
 - Supports pour poutre de soutien métallique
 
-
-![Câbles audios et autres]
-![Pinces en plastique]
-![Poutres de soutien métalliques]
-![Systèmes sonores]
-![Protecteurs de câbles]
+#### Câbles audios et autres fils
+![Câbles audios et autres](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_fils.jpg)
+#### Poutres de soutien métallique 
+![Poutres de soutien métalliques](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_pilie.jpg)
+#### Systèmes de son
+![Systèmes de son](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_haut_parleur.jpg)
+#### Protecteurs de câbles
+![Protecteurs de câbles](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_protecteur.jpg)
+#### Boîte de protection
+![Boîte de protection](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_boite.jpg)
+#### Supports pour poutre de soutien métallique
 ![Supports pour poutre de soutien métallique](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_base_plastique.jpg)
 
 ## Expérience vécue
@@ -109,13 +118,9 @@ Mon expérience personnelle fut très agréable. J’étais très impressionnée
 [![Expérience vécue 2]
 
 ## Ce qui m'a plu et qui m'a donné des idées
-Premièrement, ce qui m'a plu davantage est l'interactivité de l'œuvre, car il est possible d'intéragir avec et de découvrir ses fonctionnalités, ce qui devient plus intéressant qu'une œuvre contemplative. Les visiteurs semblaient vraiment intéressés par le fait de marcher dans l'espace et d’essayer de déclencher les sensor. Ceci m'inspire, car lorsque l'on crée une œuvre, on souhaite que les gens s'arrêtent longtemps devant celle-ci et parte avec un bon souvenir. La technique derrière de telle oeuvre est imprésionnante et j'aimerais pouvoir en apprendre davantage pour créer des installations semblables. 
-
-  
+Premièrement, ce qui m'a plu davantage est l'interactivité de l'œuvre, car il est possible d'intéragir avec et de découvrir ses fonctionnalités, ce qui devient plus intéressant qu'une œuvre contemplative. Les visiteurs semblaient vraiment intéressés par le fait de marcher dans l'espace et d’essayer de déclencher les sensor. Ceci m'inspire, car lorsque l'on crée une œuvre, on souhaite que les gens s'arrêtent longtemps devant celle-ci et parte avec un bon souvenir. La technique derrière de telle oeuvre est imprésionnante et j'aimerais pouvoir en apprendre davantage pour créer des installations semblables.
 
 Deuxièmement, j'aime que cette œuvre soit intuitive dans son utilisation et accessible à tous. Les interacteurs de tous les âges semblaient comprendre rapidement que de passer devant les quatre côtés de la poutre de soutient métallique centrale créait du bruit et des jeux de lumières. Cela m’inspire, car je trouve qu’il est important de réfléchir au public cible lorsque l’on crée une œuvre. Il est important que tout le monde puisse interagir avec et comprendre son fonctionnement pour pouvoir expérimenter l’œuvre et son plein potentiel.  
-
-  
 
 Troisièmement, j'aime que cette œuvre utilise différents médiums multimédias. L'utilisation de différentes techniques, à la fois visuelle et sonore, rend l'œuvre davantage immersive. Je trouve que le bruit de respiration ainsi que la lumière qui suit ce rythme lorsque l’installation est en “état de veille” est bien penser, car après l’énorme spectacles, l’œuvre “se repose”.  Je trouve cela inspirant, car ce sont des techniques qui peuvent être utilisées dans mes futurs projets.  
 
