@@ -82,7 +82,7 @@ Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 pili
 #### Fausses plantes et lumières
  ![Fausses plantes, Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_haut_parleur.jpg)
  #### Fausses plantes et lumières
-![Composantes électroniques ordinateurs]()
+![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_composantes.jpg)
 #### Fausses plantes et lumières
 ![Capteurs de mouvements](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_sensor.jpg)
 
