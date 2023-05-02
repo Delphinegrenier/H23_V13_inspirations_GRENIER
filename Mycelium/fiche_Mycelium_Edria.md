@@ -77,14 +77,11 @@ Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 pili
 - Lumières 
 - Composantes électroniques et ordinateurs
 - Capteurs de mouvements
-- Banque de sons et musique
+- Banques sonores et musicales
 - 
-#### Fausses plantes et lumières
- ![Fausses plantes, Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_haut_parleur.jpg)
- #### Fausses plantes et lumières
-![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_composantes.jpg)
-#### Fausses plantes et lumières
-![Capteurs de mouvements](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_sensor.jpg)
+Fausses plantes et lumières ![Fausses plantes, Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_haut_parleur.jpg)
+Composantes électroniques, ordinateurs, banques sonores et musicales ![Composantes électroniques ordinateurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_composantes.jpg)
+Capteurs de mouvements ![Capteurs de mouvements](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_sensor.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 
