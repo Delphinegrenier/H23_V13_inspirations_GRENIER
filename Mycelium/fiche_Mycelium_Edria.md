@@ -1,4 +1,4 @@
-# Titre
+# Edria (2023)
 
 ## Nom de l'exposition
 Mycélium
