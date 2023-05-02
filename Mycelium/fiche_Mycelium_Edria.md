@@ -56,7 +56,6 @@ Site web de TIM, page parlant de l'oeuvre : https://tim-montmorency.com/2023/pro
 ![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_cartel.jpg)
 
 ![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_diverse_vue_01.jpg)
-![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_diverse_vue_02.jpg)
 ![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_diverse_vue_03.jpg)
 
 ## Type d'installation
@@ -71,7 +70,7 @@ Premièrement, cette installation se trouvait à l'extérieur du Collège Montmo
 
 Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 piliers métalliques dans chaque coin, ainsi qu'un grand pilier au centre. Ces piliers ont des plantes en plastique qui donne l'impression qu'elles proviennent des arbustes autours et qui ont grimpés sur ceux-ci. Les lumières provenant des boules et bâtons lumineux éclair l’environnement de différentes couleurs. Il y a des fils, des caches-fils et autres composantes camouflées ou non dans l'espace, mais cela n'empêche pas l'immersion de cette oeuvre. 
 ![Croquis](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_croquis.jpg)
-![Vue d'ensemble]()
+![Vue d'ensemble](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_diverse_vue_02.jpg)
 
 ## Composantes et techniques
 - Fausses plantes
