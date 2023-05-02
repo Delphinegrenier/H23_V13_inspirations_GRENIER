@@ -124,7 +124,7 @@ Deuxièmement, j'aime que cette œuvre soit intuitive dans son utilisation et ac
 Troisièmement, j'aime que cette œuvre utilise différents médiums multimédias. L'utilisation de différentes techniques, à la fois visuelle et sonore, rend l'œuvre davantage immersive. Je trouve que le bruit de respiration ainsi que la lumière qui suit ce rythme lorsque l’installation est en “état de veille” est bien penser, car après l’énorme spectacles, l’œuvre “se repose”.  Je trouve cela inspirant, car ce sont des techniques qui peuvent être utilisées dans mes futurs projets.  
 
 
-[![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_experience.jpg)](https://www.youtube.com/watch?v=f_19EQEv4T4)
+[![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_vue_ensemble_video.jpg)](https://www.youtube.com/watch?v=f_19EQEv4T4)
 [![Élément pertinent 3]
 
 ## Aspects que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
