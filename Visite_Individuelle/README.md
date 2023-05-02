@@ -6,4 +6,4 @@ Ici, on peut trouver les dossiers suivants:
 - Notes: dans lequel se trouvent les notes prises lors de la visite.
 - Media: dans lequel se trouve les images prises de l'oeuvre.
 
-On peut aussi trouver dans ce dossier la fiche de présentation de l'oeuvre choisie.
+On peut aussi trouver dans ce dossier la fiche de présentation de l'oeuvre choisie ainsi que mon plan de présentation orale.
