@@ -125,7 +125,7 @@ Troisièmement, j'aime que cette œuvre utilise différents médiums multimédia
 
 
 [![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_vue_ensemble_video.jpg)](https://www.youtube.com/watch?v=f_19EQEv4T4)
-[![Élément pertinent 3]
+![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_pertinent_02.jpg)
 
 ## Aspects que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 
