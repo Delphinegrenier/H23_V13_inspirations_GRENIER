@@ -3,14 +3,14 @@
 ## Nom de l'exposition
 Collecteur de mémoires
 
-![Affiche de l'exposition]()
+![Affiche de l'exposition](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_affiche.jpg)
 
 ## Lieu de mise en exposition
 
 Musée Pointe-à-Callière
 350, place Royale, angle de la Commune, Montréal
 
-![Moi devant l'édifice]()
+![Moi devant l'édifice](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_moi.jpg)
 
 ## Type d'exposition
 
@@ -24,7 +24,7 @@ La date de la visite était le samedi 11 mars 2023
 
 Le titre de l'œuvre choisie est: Collecteur de mémoires.
 
-![Vue d'ensemble de l'œuvre]()
+![Vue d'ensemble de l'œuvre](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_vue_ensemble.jpg)
 
 ## Nom de la firme
 
@@ -47,29 +47,28 @@ Site web du musée Pointe-à-Callière https://pacmusee.qc.ca/fr/expositions/det
 
 
 
-![Cartel]()
+![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_cartel.jpg)
 
-![Diverses vues]()
-![Diverses vues]()
-![Diverses vues]()
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_diverse_vue.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_diverse_vue_02.jpg)
 
 ## Type d'installation
 
 Cette installation est contemplative.
 
-![Vue parlante]()
+![Vue parlante](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_vue_parlante.jpg)
 
 ## Fonction du dispositif multimédia
 
 Comme mentionnée plus haut, cette installation sert à mettre en valeur le premier égout collecteur en Amérique du Nord construit entre 1832 et 1838. Il y a une diffusion du patrimoine sur la parroie du fond de l'égout sous forme de projections animées qui défilent.
 
-![Fonction du dispositif]()
+![Fonction du dispositif](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_fonction.jpg)
 
 
 ## Mise en espace
 Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un site archéologique et historique national dans le Vieux-Port de Montréal.. L'installation est au niveau le plus bas du musée, car elle se trouve dans le canal collecteur. Lorsque l'on entre dans l'espace, nous arrivons dans un égout de 110 mètres de long et quelques mètres de larges et de haut. Les parroies de cet égout sont en briques et il y a des trous et voies d'échappements tout au long de celui-ci. Il y a une platforme métallique tout au long de l'égout pour y marcher. Des fils et câbles sont dissimulés en dessous de celle-ci. Au bout du tunnel, la platforme cesse ce qui nous empêche d'aller jusqu'au fond. Il y a de l'eau entre les briques du sol dans l'espace qui est inaccesible et qui n'a pas de platforme. Pour ce qui est de l'installation, elle se trouve d'un bout à l'autre du tunnel. Il y a des projecteurs et des lumières LEDs de chaque côté de la platforme qui permettent d'illuminer les parroies de l'égout de plusieurs couleurs. À certain endroits, il est possible d'appercevoir des projections d'animation sur les parroies. Au fond de l'égout se trouve une projection de vielles images en transition. On peut passer au travers celle-ci d'un côté ou de l'autre et de le traverser permet d'acceder à une autre exposition.
 
-![Croquis]()
+![Croquis](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Croquis/collecteur_croquis.jpg)
 ![Vue d'ensemble]()
 
 ## Composantes et techniques
