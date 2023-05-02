@@ -3,7 +3,7 @@
 ## Nom de l'exposition
 Mycélium
 
-![Affiche de l'exposition]()
+![Affiche de l'exposition](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_affiche.jpg)
 
 ## Lieu de mise en exposition
 
@@ -23,7 +23,7 @@ La date de la visite était le jeudi 23 mars 2023.
 
 Le titre de l'œuvre choisie est: Edria.
 
-![Vue d'ensemble de l'œuvre]()
+![Vue d'ensemble de l'œuvre](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_vue_ensemble.jpg)
 
 ## Nom des créateurs
 
@@ -53,17 +53,17 @@ Les créateurs voulaient s’assurer d’une œuvre immersive qui attire l’att
 Site web de TIM, page parlant de l'oeuvre : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 
-![Cartel]()
+![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_cartel.jpg)
 
-![Diverses vues]()
-![Diverses vues]()
-![Diverses vues]()
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_diverse_vue_01.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_diverse_vue_02.jpg)
+![Diverses vues](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_diverse_vue_03.jpg)
 
 ## Type d'installation
 
 Cette installation est intéractive.
 
-![Vue parlante]()
+![Vue parlante](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_vue_parlante.jpg)
 
 
 ## Mise en espace
@@ -80,12 +80,12 @@ Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 pili
 - Capteurs de mouvements
 - Banque de sons et musique
 - 
-
-![Écran D.E.L.]()
-![Arche en bois]()
+#### Fausses plantes et lumières
+ ![Fausses plantes, Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_haut_parleur.jpg)
+ #### Fausses plantes et lumières
 ![Composantes électroniques ordinateurs]()
-![Caméra]()
-![Base en bois]()
+#### Fausses plantes et lumières
+![Capteurs de mouvements](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_sensor.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 
@@ -95,13 +95,14 @@ Lorsque l'on entre dans l'espace réservée à cette installation, il y a 5 pili
 - Systèmes sonores
 - Protecteurs de câbles
 - Supports pour poutre de soutien métallique
-- 
 
-![Cache fils]
-![Fils et visses]
-![Pinces]
-![Poutre de soutient métallique]
-![Système sonore]
+
+![Câbles audios et autres]
+![Pinces en plastique]
+![Poutres de soutien métalliques]
+![Systèmes sonores]
+![Protecteurs de câbles]
+![Supports pour poutre de soutien métallique](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_base_plastique.jpg)
 
 ## Expérience vécue
 Edria est une expérience intéractive qui permet aux gens de. Lorsque l'on entre dans l'espace révervée à cette installation, il y a de grosses boules lumineuses qui éclair l'espace avec des couleurs en intervale. Ces changements de lumières se font lentement. Une musique peut être entendu et celle-ci est douce et calme. Le pilier central comporte 4 sensor. Lorsqu'un individu déclenche un sensor, un bruitage peut être entendu et la lumière semble plus forte. Chaque sensor, lorsque déclenché, émet un bruit différent. L'interacteur peut donc s'amuser à découvrir chaque son en marchant autour de ce poteau central. Lorsque l'intéracteur est accompagné d'autres personnes, tous les sensors peuvent être déclencher en même temps. Lorsque ceci se produit, une musique forte, énergique et rapide peut être entendu. Le jeu de lumière augmente de vitesse et suit le rythme de la musique. Ce spectacle impressionnant dur 45 secondes à une minute. Ensuite, toutes les lumières et son cessent, laissant l’espace silencieux et sombre. Quelques secondes plus tard, la lumière reprend sa place et un son d’activation peut être entendu, ressemblant à un redémarrage. L’installation est en veille, et un bruit de respiration envahit l’espace. Les lumières s’éteignent et s’allument au rythme de la respiration. Cette respiration cesse après plusieurs secondes ou lorsque l’on active un sensor à nouveau. Il est également possible de seulement admirer l'œuvre sans avoir à interagir avec celle-ci.  
