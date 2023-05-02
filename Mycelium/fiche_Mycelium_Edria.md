@@ -50,7 +50,7 @@ En d’autres mots, les créateurs d’Edria voulaient montrer une connexion ent
 
 Les créateurs voulaient s’assurer d’une œuvre immersive qui attire l’attention des interacteurs. Ils voulaient s’assurer d’un environnement enchanteur qui sort de l’ordinaire. L'allure de l’œuvre en elle-même a un aspect très mécanique et techniques, de par les piliers métalliques et les capteurs, cependant l’ajout de fausses plantes et de boules lumineuses rappelle la thématique de la nature. 
 
-Site web de TIM, page parlant de l'oeuvre : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+##### Site web de TIM, page parlant de l'oeuvre : https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 
 ![Cartel](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_cartel.jpg)
