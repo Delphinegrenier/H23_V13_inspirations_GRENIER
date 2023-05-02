@@ -38,12 +38,6 @@ L'année de réalisation de l'œuvre est: 2017.
 
 Collecteur de mémoire est une exposition et installation contemplative créée en 2017 par la firme Moment Factory. À première vue, elle impressionne par sa grande taille, car elle elle mesure plusieurs mètres de long. Sa position dans l'espace nous invite à passer au travers de celle-ci. L'installation de projections et d'animations sur les parroies sert à mettre en valeur le premier égout collecteur en Amérique du Nord. L'œuvre en elle-même est simple, mais demande plusieurs composantes électriques et techniques de multimédia pour qu'elle fonctionne.
 
-
-
-En d'autres mots, l’artiste voulait montrer que les gestes que l'on pose présentement deviennent alors ceux du passé et ainsi de suite. Alors, au lieu de penser que le temps est linéaire, l’artiste veut plutôt montrer que le passé reste, que ce soit numériquement ou dans la mémoire de chacun. Lorsque l'on passe au travers l'œuvre et que notre photo est prise, ce simple geste qu'est de marcher dans une direction est un geste maintenant passé, sauf qu'elle est gardée en mémoire. Alors, chacune de nos actions compte et même si elles sont passées, elles peuvent tout de même resurgir et s'additionner avec le présent.
-
-L’artiste voulait favoriser une œuvre simple et qui est très facile et intuitive pour les gens. D'un autre côté, l'œuvre en elle-même est très complexe et demande plusieurs codes informatiques et composantes électriques pour qu'elle fonctionne, cependant elle semble très minimaliste et invite les gens à la traverser.
-
 D'après le site web du musée Pointe-à-Callière: <i> [...] Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion.
 
 Dans le souci de respecter l’esprit du lieu, la mise en valeur de cet impressionnant collecteur plonge le visiteur dans un monde souterrain quasi mystérieux qui le transporte au cœur d’un espace magique porteur d’histoire et chargé d’émotions.  </i>
