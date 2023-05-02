@@ -114,8 +114,7 @@ Edria est une expérience intéractive qui permet aux gens de. Lorsque l'on entr
 
 Mon expérience personnelle fut très agréable. J’étais très impressionnée de la taille de l’œuvre ainsi que des sons et lumières associées à celle-ci. Lorsque je suis entrée dans l’espace, j’ai tout d'abord regardé la technique et les composantes sur les piliers, car cela m’intéressait. Le fonctionnement de l'installation est intuitif, donc je me suis avancée vers le centre pour déclencher un sensor et j’ai entendu un bruit autour de moi. J’étais accompagnée d’une autre personne qui découvrait l’œuvre en même temps que moi et nous avons réussi à déclencher tous les sensor ensembles. Le spectacle de lumière autour de nous fût impressionnant et nous avons observé celui-ci jusqu’à la fin, avant de quitter.  
 
-![Expérience vécue 1]
-[![Expérience vécue 2]
+[![Expérience vécue 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_experience.jpg)](https://www.youtube.com/watch?v=fjakJPlI6KA)
 
 ## Ce qui m'a plu et qui m'a donné des idées
 Premièrement, ce qui m'a plu davantage est l'interactivité de l'œuvre, car il est possible d'intéragir avec et de découvrir ses fonctionnalités, ce qui devient plus intéressant qu'une œuvre contemplative. Les visiteurs semblaient vraiment intéressés par le fait de marcher dans l'espace et d’essayer de déclencher les sensor. Ceci m'inspire, car lorsque l'on crée une œuvre, on souhaite que les gens s'arrêtent longtemps devant celle-ci et parte avec un bon souvenir. La technique derrière de telle oeuvre est imprésionnante et j'aimerais pouvoir en apprendre davantage pour créer des installations semblables.
