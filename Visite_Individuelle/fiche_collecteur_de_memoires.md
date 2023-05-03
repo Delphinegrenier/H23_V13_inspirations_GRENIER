@@ -66,7 +66,7 @@ Comme mentionnée plus haut, cette installation sert à mettre en valeur le prem
 
 
 ## Mise en espace
-Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un site archéologique et historique national dans le Vieux-Port de Montréal. L'installation est au niveau le plus bas du musée, car elle se trouve dans le canal collecteur. Lorsque l'on entre dans l'espace, nous arrivons dans un égout de 110 mètres de long et quelques mètres de larges et de haut. Les parroies de cet égout sont en briques et il y a des trous et voies d'échappements tout au long de celui-ci. Il y a une platforme métallique tout au long de l'égout pour y marcher. Des fils et câbles sont dissimulés en dessous de celle-ci. Au bout du tunnel, la platforme cesse ce qui nous empêche d'aller jusqu'au fond. Il y a de l'eau entre les briques du sol dans l'espace qui est inaccesible et qui n'a pas de platforme. Pour ce qui est de l'installation, elle se trouve d'un bout à l'autre du tunnel. Il y a des projecteurs et des lumières LEDs de chaque côté de la platforme qui permettent d'illuminer les parroies de l'égout de plusieurs couleurs. À certain endroits, il est possible d'appercevoir des projections d'animation sur les parroies. Au fond de l'égout se trouve une projection de vielles images en transition. On peut passer au travers celle-ci d'un côté ou de l'autre et de le traverser permet d'acceder à une autre exposition.
+Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un site archéologique et historique national dans le Vieux-Port de Montréal. L'installation est au niveau le plus bas du musée, car elle se trouve dans le canal collecteur. Lorsque l'on entre dans l'espace, nous arrivons dans un égout de 110 mètres de long et quelques mètres de larges et de haut. Les parroies de cet égout sont en briques et il y a des trous et voies d'échappements tout au long de celui-ci. Il y a une platforme métallique tout au long de l'égout pour y marcher. Des fils et câbles sont dissimulés en dessous de celle-ci. Au bout du tunnel, la platforme cesse ce qui nous empêche d'aller jusqu'au fond. Il y a de l'eau entre les briques du sol dans l'espace qui est inaccesible et qui n'a pas de platforme. Pour ce qui est de l'installation, elle se trouve d'un bout à l'autre du tunnel. Il y a des projecteurs et des lumières DEL de chaque côté de la platforme qui permettent d'illuminer les parroies de l'égout de plusieurs couleurs. À certain endroits, il est possible d'appercevoir des projections d'animation sur les parroies. Au fond de l'égout se trouve une projection de vielles images en transition. On peut passer au travers de l'égout d'un côté ou de l'autre et de le traverser permet d'acceder à une autre exposition.
 
 ![Croquis](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Croquis/collecteur_croquis.jpg)
 ![Vue d'ensemble]()
@@ -74,7 +74,6 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 ## Composantes et techniques
 - Animations et projections 
 - Projecteurs
-
 
 ![Écran D.E.L.]()
 ![Arche en bois]()
@@ -91,7 +90,13 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 - Protecteur de projecteur
 
 ## Expérience vécue
+Lorsque l'on entre dans l'égout, on est accueilli par de la musique douce de type acoustique. Quelques fois, on entend des bruitages d'eau qui s'écoule et de goutes qui tombent. Il y a des bandes DEL et des lampes qui illuminent les parois de pleins de couleurs. L'égout reste tout de même un peu sombre ce qui donne un effet mystérieux à l'espaces. Les couleurs provenant des lumières changent en intervale et s'éteigne de façon aléatoire. Plus on s'enfonce dans l'égout, on peut apercevoir des projections animées sur les murs. Ces projections géométrique se déplacent sur les parois. Cette marche de 110 mètres se termine au bout de l'égout. Il est possible d'apercevoir de grosses projections sur le mur du fond. Ce sont des illustrations historiques qui changent à chaques quelques secondes. Les images transitionnent entre-elles comme si elles coulaient dans l'égout. Il est possible de quitter l'égout à cet endroit pour visiter la prochaine exposition ou de retourner sur ses pas pour vivre la même expérience. 
 
+Personnellement, j'ai été intrigué par cette installation, mais surtout par l'égout collecteur. Il n'y a pas de gestes a prendre pour l'apprécier. Il faut seulement marcher au travers d'elle. 
+
+Résonance est une installation interactive qui permet aux gens de passer à travers une arche lumineuse qui prend en photo le corps de ceux-ci. Après avoir traverser l'arche, l'image prise est affichée sur un écran D.E.L. Plusieurs images défilent en boucle sur cet écran. Les images semblent se diviser et se superposer en séparant les couleurs et en jouant avec la transparence de l'image. Cette œuvre comporte deux aspects sonores, car un son est émis lorsqu’on passe à travers celle-ci et il y a un faible bruit constant que l'on peut entendre en tout temps. Au moment de traverser, le son entendu ressemble à celui d'un "scan". Il est possible de rester un long moment devant la caméra ou de faire différents gestes pour que la photo affichée soit étrange. Il est également possible de seulement admirer l'œuvre sans avoir à interagir avec celle-ci.
+
+Mon expérience personnelle de l'œuvre fut agréable. Après avoir vu d'autres visiteurs intéragir avec l'œuvre, j'avais hâte d'essayer à mon tour. Je me suis positionnée vers l'arche et je l'ai traversée, toujours en regardant l'écran pour être prête à y apercevoir mon image s'afficher. Je suis restée un moment près de l'écran pour observer ma photo défiler avec d'autres. Au même moment, j'ai entendu l'arche émettre un son et j'ai aperçu l'image d'un de mes collègues de classe s'afficher à l'écran à côté de la mienne. Il venait de traverser l'arche à son tour. Je me suis questionnée sur la technique derrière une telle œuvre.
 
 ![Expérience vécue 1]
 [![Expérience vécue 2]
@@ -101,16 +106,15 @@ Premièrement, ce qui m'a plus davantage est que cette œuvre utilise différent
 
 Deuxièmement, j'aime que cette oeuvre ait un aspect à la fois artistique et historique. Mélanger ces concepts peut permemettre d'en apprendre davantage sur l'histoire tout en modernisant et rendant plus accessible celle-ci. De plus, cela permet d'attirer un nouveau publique qui 
 
-Troisièmement, j'aime que cette œuvre soit accessible à tous. Les interacteurs de tous les âges peuvent apprécier et visiter cette oeuvre. Cela m’inspire, car je trouve qu’il est important de réfléchir au public cible lorsque l’on crée une œuvre et l'accessibilité de celle-ci. Il est important que tout le monde puisse 
+Troisièmement, j'aime que cette œuvre soit accessible à tous de par l'utilisation d'une platformes. Les interacteurs de tous les âges peuvent apprécier et visiter cette oeuvre de façon sécuritaire. Cela m’inspire, car je trouve qu’il est important de réfléchir au public cible lorsque l’on crée une œuvre et l'accessibilité de celle-ci. Il est important que tout le monde puisse 
 
 ![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent.jpg)
 
 ## Aspects que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 
-
 Premièrement, tout en respectant le travail des créateurs de cette installation, si je pouvais faire quelque chose autrement, je changerais les animations pour qu'ils aient un plus grand rapport avec le thème et la mise en espace. Je trouve que les animations sur les murs ne mettaient pas toujours l'égout collecteur en valeur. Il aurait été intéressant de voir un lien direct entre les projections et l'égout collecteur. J'utiliserais des projections qui ont rapport avec de l'eau qui coule sur les murs et des briques qui se pose l'une sur l'autre pour rappeler la construction de l'égout. Selon moi, ces éléments rendraient l'oeuvre plus immersive.
 
-Deuxièmement, je mettrais ces animations et projections tout le long du tunnel et non seulement vers la fin du tunnel. Pour mes futures créations, je m'assurerais que mon oeuvre soit réparti de façon égale tout au long de celui-ci pour que l'expérience soit davantage immersive. 
+Deuxièmement, je mettrais ces animations et projections sur les deux parois de l'égout.. Pour mes futures créations, je m'assurerais que mon oeuvre soit réparti de façon égale tout au long de celui-ci pour que l'expérience soit davantage immersive. 
 
 ![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_02.jpg)
 ![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_03.jpg)
