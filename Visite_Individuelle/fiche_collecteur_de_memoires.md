@@ -74,7 +74,9 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 - Animations et projections 
 - Projecteurs
 
+#### Animations et projections
 ![Animations et projections](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_animation.jpg)
+#### Projecteurs
 ![Projecteurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_projecteur_01.jpg)
 
 ## Éléments nécessaires à la mise en exposition
@@ -85,10 +87,15 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 - Câbles
 - Protecteur de projecteur
 
+#### Plate-forme et bandes DEL
 ![Plate-forme et bandes DEL](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_LEDS.jpg)
+#### Lumières
 ![Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_lumiere.jpg)
+#### Système de son
 ![Système de son](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_systeme_son_01.jpg)
+#### Câbles
 ![Câbles](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_cables.jpg)
+#### Protecteur de projecteur
 ![Protecteur](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_protecteur.jpg)
 
 ## Expérience vécue
