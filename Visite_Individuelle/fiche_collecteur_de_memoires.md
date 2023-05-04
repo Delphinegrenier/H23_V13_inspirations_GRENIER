@@ -71,7 +71,8 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 ![Vue d'ensemble](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_vue_ensemble_01.jpg)
 
 ## Composantes et techniques
-- Animations et projections 
+- Animations et projections
+- Bande sonore
 - Projecteurs
 
 #### Animations et projections
