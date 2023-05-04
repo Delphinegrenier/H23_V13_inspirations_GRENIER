@@ -75,7 +75,7 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 - Projecteurs
 
 ![Animations et projections](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_animation.jpg)
-![Projecteurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_projecteur.jpg)
+![Projecteurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_projecteur_01.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 - Plate-forme métallique
@@ -87,7 +87,7 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 
 ![Plate-forme et bandes DEL](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_LEDS.jpg)
 ![Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_lumiere.jpg)
-![Système de son](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_systeme_son.jpg)
+![Système de son](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_systeme_son_01.jpg)
 ![Câbles](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_cables.jpg)
 ![Protecteur](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_protecteur.jpg)
 
