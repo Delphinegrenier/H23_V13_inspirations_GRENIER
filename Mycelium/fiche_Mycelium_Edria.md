@@ -9,8 +9,6 @@ Mycélium
 
 Collège Montmorency
 
-![Moi devant l'édifice]()
-
 ## Type d'exposition
 
 Le type d'exposition est temporaire.
