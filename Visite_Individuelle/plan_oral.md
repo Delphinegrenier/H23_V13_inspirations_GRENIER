@@ -22,7 +22,7 @@
 - Date de la visite: le samedi 11 mars 2023.
 
 ### Présentation détaillée de l'oeuvre
-- Description: 
+- Description: L'installation de projections et d'animations sur les parois sert à mettre en valeur le premier égout collecteur en Amérique du Nord. L'œuvre en elle-même est simple, mais demande plusieurs composantes électriques et techniques de multimédias pour qu'elle fonctionne. 
 - Type d'installation: Contemplative
 - Fonction: Mettre en valeur le premier égout collecteur en Amérique du Nord construit entre 1832 et 1838. Il y a diffusion du patrimoine sur la parroie du fond de l'égout sous forme de projections animées qui défilent.
 - Mise en espace: Cette installation se trouve au musée Pointe-à-Callière, un site archéologique et historique national dans le Vieux-Port de Montréal. Elle mesure 110 mètres de long et quelques mètres de larges et de haut. Les parroies de cet égout sont en briques et il y a des trous et voies d'échappements tout au long de celui-ci. Il y a une platforme qui permet de nous déplacer tout au long de l'égout. Les composantes techniques sont de chaque côté de la platforme et en dessous. 
@@ -37,7 +37,7 @@
 - J'apprécie les aspects à la fois artistique et historique, car cela permet d'attirer un nouveau publique pour les arts numériques.
 - J'apprécie que cette œuvre soit accessible à tous, car il est important que tout le monde puisse accéder à nos oeuvres.
 - Je ferais autrement les animations pour qu'ils aient un plus grand rapport avec le thème et la mise en espace, car ça rendrait l'oeuvre plus immersive.
-- Je changerais la disposition des animations et projections pour qu'elles soient tout le long du tunnel et non seulement vers la fin du tunnel, car ça rendrait l'oeuvre plus immersive.
+- Je changerais la disposition des animations et projections pour qu'elles soient sur les deux parois de l'égout, car ça rendrait l'oeuvre plus immersive.
 - 
 ### Liens avec autres oeuvres
 - Oeuvre Résonance de l'exposition BIAN (Aspects et techniques multimédia à la fois sonores et visuel.. musique, effets sonores et projections)
