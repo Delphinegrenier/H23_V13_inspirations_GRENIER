@@ -119,8 +119,6 @@ Troisièmement, j'aime que cette œuvre soit accessible à tous de par l'utilisa
 ## Aspects que je ferais autrement et que je ne souhaite pas retenir pour de futures créations
 Premièrement, tout en respectant le travail des créateurs de cette installation, si je pouvais faire quelque chose autrement, je changerais les animations pour qu'ils aient un plus grand rapport avec le thème et la mise en espace. Je trouve que les animations sur les murs ne mettaient pas toujours l'égout collecteur en valeur. Il aurait été intéressant de voir un lien direct entre les projections et l'égout collecteur. J'utiliserais des projections qui ont rapport avec de l'eau qui coule sur les murs et des briques qui se posent l'une sur l'autre pour rappeler la construction de l'égout. Selon moi, ces éléments rendraient l'oeuvre plus immersive.
 
-Deuxièmement, j'afficherais ces animations sur les deux parois de l'égout. Il aurait été intéressant de voir ces projections réparties des deux côté de l'égout, car cela rendrait l'oeuvre encore plus immersive.
-
 ![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_02.jpg)
 ![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_03.jpg)
 [![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_video.jpg)](https://www.youtube.com/watch?v=C9i5Hj5d3n8)
