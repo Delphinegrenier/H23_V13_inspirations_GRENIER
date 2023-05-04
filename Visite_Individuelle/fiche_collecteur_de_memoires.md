@@ -24,7 +24,7 @@ La date de la visite était le samedi 11 mars 2023
 
 Le titre de l'œuvre choisie est: Collecteur de mémoires.
 
-![Vue d'ensemble de l'œuvre](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_vue_ensemble.jpg)
+![Vue d'ensemble de l'œuvre](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_vue_ensemble_oeuvre.jpg)
 
 ## Nom de la firme
 
