@@ -30,7 +30,11 @@
 - Éléments: Platforme métallique, Bandes LEDs, Lumières, Système de son, Câbles audio, Protecteur de projecteur
 
 ### Expérience vécue
-
+- Musique douce du type acoustique
+- Bruitage d'eau
+- Lumières de couleurs changent en intervalle
+- Grosses projections sur le mur du fond
+- Projections sur les parois
 
 ### Appréciation critique et justification
 - J'apprécie l'utilisation de différentes techniques multimédia, car ce sont des techniques que je pourrai utiliser lors de mes futurs projets.
