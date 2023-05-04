@@ -74,19 +74,22 @@ Premièrement, cette installation se trouvait au musée Pointe-à-Callière, un 
 - Animations et projections 
 - Projecteurs
 
-![Écran D.E.L.]()
-![Arche en bois]()
-![Composantes électroniques ordinateurs]()
-![Caméra]()
-![Base en bois]()
+![Animations et projections](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_animation.jpg)
+![Projecteurs](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_projecteur.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 - Plate-forme métallique
-- Bandes LEDs
+- Bandes DEL
 - Lumières
 - Système de son
-- Câbles audio
+- Câbles
 - Protecteur de projecteur
+
+![Plate-forme et bandes DEL](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_LEDS.jpg)
+![Lumières](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_lumiere.jpg)
+![Système de son](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_systeme_son.jpg)
+![Câbles](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_cables.jpg)
+![Protecteur](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_composante_protecteur.jpg)
 
 ## Expérience vécue
 Lorsque l'on entre dans l'égout, on est accueilli par de la musique douce du type acoustique. Quelquefois, on entend des bruitages d'eau qui s'écoule et de goutés qui tombent. Il y a des bandes DEL et des lampes qui illuminent les parois de plein de couleurs. L'égout reste tout de même un peu sombre ce qui donne un effet mystérieux à l'espace. Les couleurs provenant des lumières changent en intervalle et s'éteignent de façon aléatoire. Plus on s'enfonce dans l'égout, on peut apercevoir des projections animées sur les murs. Ces projections géométriques se déplacent sur les parois. Cette marche de 110 mètres se termine au bout de l'égout. Il est possible d'apercevoir de grosses projections sur le mur du fond. Ce sont des illustrations historiques qui changent à chacun quelques secondes. Les images changent comme si elles coulaient dans l'égout. Il est possible de quitter l'égout à cet endroit pour visiter la prochaine exposition ou de retourner sur ses pas pour vivre la même expérience. 
