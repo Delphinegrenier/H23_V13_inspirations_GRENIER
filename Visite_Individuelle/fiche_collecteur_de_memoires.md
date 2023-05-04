@@ -36,7 +36,7 @@ L'année de réalisation de l'œuvre est: 2017.
 
 ## Description de l'œuvre
 
-Collecteur de mémoire est une exposition et installation contemplative créée en 2017 par la firme moment Factory. À première vue, elle impressionne par sa grande taille, car elle mesure plusieurs mètres de long. Sa position dans l'espace nous invite à passer au travers de celle-ci. L'installation de projections et d'animations sur les parois sert à mettre en valeur le premier égout collecteur en Amérique du Nord. L'œuvre en elle-même est simple, mais demande plusieurs composantes électriques et techniques de multimédias pour qu'elle fonctionne.
+Collecteur de mémoires est une exposition et installation contemplative créée en 2017 par la firme moment Factory. À première vue, elle impressionne par sa grande taille, car elle mesure plusieurs mètres de long. Sa position dans l'espace nous invite à passer au travers de celle-ci. L'installation de projections et d'animations sur les parois sert à mettre en valeur le premier égout collecteur en Amérique du Nord. L'œuvre en elle-même est simple, mais demande plusieurs composantes électriques et techniques de multimédias pour qu'elle fonctionne.
 
 D'après le site web du musée Pointe-à-Callière: <i> [...] Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion.
 
