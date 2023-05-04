@@ -38,7 +38,7 @@
 - J'apprécie que cette œuvre soit accessible à tous, car il est important que tout le monde puisse accéder à nos oeuvres.
 - Je ferais autrement les animations pour qu'ils aient un plus grand rapport avec le thème et la mise en espace, car ça rendrait l'oeuvre plus immersive.
 - Je changerais la disposition des animations et projections pour qu'elles soient sur les deux parois de l'égout, car ça rendrait l'oeuvre plus immersive.
-- 
+
 ### Liens avec autres oeuvres
 - Oeuvre Résonance de l'exposition BIAN (Aspects et techniques multimédia à la fois sonores et visuel.. musique, effets sonores et projections)
 - Oeuvre Echomarine de l'exposition Mycélium (Aspects et techniques multimédia à la fois sonores et visuel.. musique, effets sonores et projections d'animations)
