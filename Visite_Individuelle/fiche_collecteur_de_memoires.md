@@ -103,8 +103,8 @@ Lorsque l'on entre dans l'égout, on est accueilli par de la musique douce du ty
 
 Mon expérience personnelle de l'œuvre fut agréable. Personnellement, j'ai été intrigué par cette installation, mais surtout par l'égout collecteur. Il n'y a pas de gestes à prendre pour l'apprécier. Il faut seulement marcher au travers d'elle, écouter et observer. 
 
-![Expérience vécue 1]
-[![Expérience vécue 2]
+[![Experience vécue 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_pertinent_video_02.jpg)](https://www.youtube.com/watch?v=GTf0SVELsBQ)
+[![Experience vécue 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_pertinent_video_02.jpg)](https://www.youtube.com/watch?v=Aej-I7dbRug)
 
 ## Ce qui m'a plu et qui m'a donné des idées
 Premièrement, ce qui m'a plus d'avantage est que cette œuvre utilise différentes techniques multimédias. L'utilisation de ces médiums, à la fois visuelle et sonore, rend l'œuvre davantage immersive. Je trouve que les jeux de lumière qui changent tout le long de l'égout met en valeur ses parois et crée une ambiance invitante lorsqu'on le traverse. Je trouve cela inspirant, car ce sont des techniques que je pourrai utiliser lors de mes futurs projets.
@@ -122,6 +122,7 @@ Deuxièmement, je mettrais ces animations et projections sur les deux parois de 
 
 ![Élément pertinent 2](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_02.jpg)
 ![Élément pertinent 3](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Visite_Individuelle/Medias/collecteur_element_pertinent_03.jpg)
+[![Élément pertinent 1](https://github.com/Delphinegrenier/H23_V13_inspirations_GRENIER/blob/main/Mycelium/media/mycelium_edria_pertinent_video_02.jpg)](https://www.youtube.com/watch?v=C9i5Hj5d3n8)
 ## Références
 
 - Site web du musée Pointe-à-Callière https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
